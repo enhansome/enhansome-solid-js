@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35815
+            "stars": 35816
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35815
+            "stars": 35816
           }
         },
         {
@@ -117,7 +117,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:14:22Z",
+            "last_commit": "2026-08-13T04:42:56Z",
             "owner": "solidjs",
             "repo": "templates",
             "stars": 538
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-12T00:33:06Z",
             "owner": "Tura-AI",
             "repo": "tura",
-            "stars": 576
+            "stars": 578
           }
         },
         {
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:11:59Z",
+            "last_commit": "2026-08-13T06:18:49Z",
             "owner": "yamcodes",
             "repo": "arkenv",
             "stars": 138
@@ -607,7 +607,7 @@
             "last_commit": "2026-08-10T10:53:37Z",
             "owner": "PuruVJ",
             "repo": "neodrag",
-            "stars": 2446
+            "stars": 2447
           }
         },
         {
@@ -655,7 +655,7 @@
             "last_commit": "2026-08-07T01:01:49Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3715
+            "stars": 3716
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35815
+            "stars": 35816
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-07-21T14:38:54Z",
             "owner": "BuilderIO",
             "repo": "mitosis",
-            "stars": 13900
+            "stars": 13901
           }
         },
         {
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:50.517Z",
+    "last_updated": "2026-08-13T06:18:56.832Z",
     "original_repository": "one-aalam/awesome-solid-js",
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",

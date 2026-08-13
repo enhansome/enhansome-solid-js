@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30
+## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,101 | 🐛 100 | 📅 2026-06-30
 
 > A curated list of awesome things related to SolidJS
 
@@ -41,8 +41,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 35,815 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12
-* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 35,815 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12
+* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 35,816 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12
+* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 35,816 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12
 * [Playground](https://github.com/solidjs/solid-playground) ⭐ 243 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12
 * [Official Guide](https://www.solidjs.com/guide)
 * [Official Tutorial](https://www.solidjs.com/tutorial)
@@ -114,7 +114,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Starter Kits
 
-* [Solid Templates](https://github.com/solidjs/templates) ⭐ 538 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-12(official)
+* [Solid Templates](https://github.com/solidjs/templates) ⭐ 538 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-13(official)
 * [DBEST Stack](https://github.com/itsyoboieltr/dbest-stack) ⭐ 102 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-25 - DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.
 * [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) ⭐ 74 | 🐛 2 | 🌐 TypeScript | 📅 2022-01-29 - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
 * [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-30 - Build applications with SolidJs and WunderGraph
@@ -174,7 +174,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Open Source
 
 * [Codeimage.dev](https://github.com/riccardoperra/codeimage) ⭐ 2,080 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-28 - Create elegant screenshots of your source code. Built with SolidJS
-* [Tura](https://github.com/Tura-AI/tura) ⭐ 576 | 🐛 10 | 🌐 Rust | 📅 2026-08-12 - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS.
+* [Tura](https://github.com/Tura-AI/tura) ⭐ 578 | 🐛 10 | 🌐 Rust | 📅 2026-08-12 - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS.
   *more coming soon...*
 * [Bloki.app](https://github.com/MrFoxPro/bloki) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-14 - Blocks-based collaborative editor
 
@@ -192,7 +192,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ## 🛠️ Tooling
 
-* [ArkEnv](https://github.com/yamcodes/arkenv) ⭐ 138 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-12 - Environment variable validation from editor to runtime, integrates with Solid and SolidStart via its Vite plugin.
+* [ArkEnv](https://github.com/yamcodes/arkenv) ⭐ 138 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 - Environment variable validation from editor to runtime, integrates with Solid and SolidStart via its Vite plugin.
 * [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) ⭐ 50 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-12 - A plugin to compile Solid.js with Bun.
 
 ## 📦 Components & Libraries
@@ -266,7 +266,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Drag and Drop
 
-* [Neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,446 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-10 ([NPM](https://www.npmjs.com/package/@neodrag/solid))
+* [Neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,447 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-10 ([NPM](https://www.npmjs.com/package/@neodrag/solid))
 * [Solid DND Directive](https://github.com/isaacHagoel/solid-dnd-directive) ⭐ 85 | 🐛 6 | 🌐 TypeScript | 📅 2021-10-05
 * [dnd kit](https://github.com/kachurun/dnd-kit-solid) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-23 - SolidJS adapter for [dnd kit](https://next.dndkit.com/)
 * [Solid DnD](https://solid-dnd.com/)
@@ -281,7 +281,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### List
 
-* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,715 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-07 ([NPM](https://www.npmjs.com/package/virtua))
+* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,716 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-07 ([NPM](https://www.npmjs.com/package/virtua))
 * [Solid Virtual Container](https://github.com/minht11/solid-virtual-container) ⭐ 87 | 🐛 5 | 🌐 TypeScript | 📅 2022-05-15 ([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 * [TanStack Virtual](https://tanstack.com/virtual/v3) ([NPM](https://www.npmjs.com/package/@tanstack/solid-virtual))
 
@@ -355,7 +355,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Web Components
 
-* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 35,815 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12 - Library for authoring web components with SolidJS.
+* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 35,816 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12 - Library for authoring web components with SolidJS.
 * [Lume Element](https://github.com/lume/element) ⭐ 188 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Fast and simple custom elements
 
 ### Frameworks & Component Libraries
@@ -438,7 +438,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ### Works with Solid
 
-* [Mitosis](https://github.com/BuilderIO/mitosis) ⭐ 13,900 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-21([playground](https://mitosis.builder.io/?outputTab=solid))
+* [Mitosis](https://github.com/BuilderIO/mitosis) ⭐ 13,901 | 🐛 173 | 🌐 TypeScript | 📅 2026-07-21([playground](https://mitosis.builder.io/?outputTab=solid))
 * [Vite Plugin - SSR](https://vite-plugin-ssr.com/)([Solid Example](https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-08)
 * [Astro](https://astro.build/)
 
