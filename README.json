@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35838
+            "stars": 35845
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35838
+            "stars": 35845
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T04:43:13Z",
+            "last_commit": "2026-08-16T19:39:09Z",
             "owner": "solidjs",
             "repo": "solid-playground",
             "stars": 243
@@ -232,10 +232,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T19:30:45Z",
+            "last_commit": "2026-08-17T00:23:04Z",
             "owner": "Tura-AI",
             "repo": "tura",
-            "stars": 592
+            "stars": 596
           }
         },
         {
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T05:28:01Z",
+            "last_commit": "2026-08-16T21:02:25Z",
             "owner": "yamcodes",
             "repo": "arkenv",
             "stars": 139
@@ -429,7 +429,7 @@
             "last_commit": "2026-03-12T23:16:02Z",
             "owner": "x64Bits",
             "repo": "solid-icons",
-            "stars": 348
+            "stars": 351
           }
         },
         {
@@ -934,7 +934,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:36:17Z",
+            "last_commit": "2026-08-17T02:41:36Z",
             "owner": "solidjs-community",
             "repo": "solid-primitives",
             "stars": 1547
@@ -1061,7 +1061,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35838
+            "stars": 35845
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2025-07-05T09:52:12Z",
             "owner": "swordev",
             "repo": "suid",
-            "stars": 746
+            "stars": 747
           }
         },
         {
@@ -1109,7 +1109,7 @@
             "last_commit": "2026-08-14T02:18:08Z",
             "owner": "lxsmnsyc",
             "repo": "terracotta",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -1280,7 +1280,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:42:22Z",
+            "last_commit": "2026-08-17T03:15:53Z",
             "owner": "davedbase",
             "repo": "solid-primitives",
             "stars": 2
@@ -1314,7 +1314,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T10:18:05Z",
+            "last_commit": "2026-08-16T15:14:00Z",
             "owner": "rejifald",
             "repo": "StitchAPI",
             "stars": 17
@@ -1585,7 +1585,7 @@
             "last_commit": "2026-08-13T17:56:47Z",
             "owner": "solidjs",
             "repo": "solid-start",
-            "stars": 5905
+            "stars": 5906
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-07-21T14:38:54Z",
             "owner": "BuilderIO",
             "repo": "mitosis",
-            "stars": 13899
+            "stars": 13901
           }
         },
         {
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:35:50.322Z",
+    "last_updated": "2026-08-17T05:37:21.727Z",
     "original_repository": "one-aalam/awesome-solid-js",
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",
