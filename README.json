@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:15:06Z",
+            "last_commit": "2026-08-18T05:28:26Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35845
+            "stars": 35850
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:15:06Z",
+            "last_commit": "2026-08-18T05:28:26Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35845
+            "stars": 35850
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2023-03-04T04:57:35Z",
             "owner": "solidjs",
             "repo": "solid-realworld",
-            "stars": 233
+            "stars": 232
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2024-03-13T22:17:00Z",
             "owner": "solidjs",
             "repo": "solid-hackernews",
-            "stars": 166
+            "stars": 165
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-17T00:23:04Z",
             "owner": "Tura-AI",
             "repo": "tura",
-            "stars": 596
+            "stars": 595
           }
         },
         {
@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T21:02:25Z",
+            "last_commit": "2026-08-17T07:02:58Z",
             "owner": "yamcodes",
             "repo": "arkenv",
             "stars": 139
@@ -415,7 +415,7 @@
             "last_commit": "2026-01-14T10:52:48Z",
             "owner": "unplugin",
             "repo": "unplugin-icons",
-            "stars": 4926
+            "stars": 4928
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-03-12T23:16:02Z",
             "owner": "x64Bits",
             "repo": "solid-icons",
-            "stars": 351
+            "stars": 350
           }
         },
         {
@@ -652,10 +652,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:59:23Z",
+            "last_commit": "2026-08-18T04:01:53Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3716
+            "stars": 3717
           }
         },
         {
@@ -875,7 +875,7 @@
             "last_commit": "2026-08-12T23:09:03Z",
             "owner": "solidjs",
             "repo": "solid-router",
-            "stars": 1318
+            "stars": 1317
           }
         },
         {
@@ -934,7 +934,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:41:36Z",
+            "last_commit": "2026-08-18T01:34:17Z",
             "owner": "solidjs-community",
             "repo": "solid-primitives",
             "stars": 1547
@@ -1058,10 +1058,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:15:06Z",
+            "last_commit": "2026-08-18T05:28:26Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35845
+            "stars": 35850
           }
         },
         {
@@ -1075,7 +1075,7 @@
             "last_commit": "2026-04-25T00:34:08Z",
             "owner": "lume",
             "repo": "element",
-            "stars": 188
+            "stars": 186
           }
         }
       ],
@@ -1109,7 +1109,7 @@
             "last_commit": "2026-08-14T02:18:08Z",
             "owner": "lxsmnsyc",
             "repo": "terracotta",
-            "stars": 704
+            "stars": 703
           }
         },
         {
@@ -1280,7 +1280,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:15:53Z",
+            "last_commit": "2026-08-18T01:33:25Z",
             "owner": "davedbase",
             "repo": "solid-primitives",
             "stars": 2
@@ -1314,7 +1314,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:14:00Z",
+            "last_commit": "2026-08-17T18:43:24Z",
             "owner": "rejifald",
             "repo": "StitchAPI",
             "stars": 17
@@ -1585,7 +1585,7 @@
             "last_commit": "2026-08-13T17:56:47Z",
             "owner": "solidjs",
             "repo": "solid-start",
-            "stars": 5906
+            "stars": 5907
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-07-21T14:38:54Z",
             "owner": "BuilderIO",
             "repo": "mitosis",
-            "stars": 13901
+            "stars": 13900
           }
         },
         {
@@ -1731,7 +1731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:37:21.727Z",
+    "last_updated": "2026-08-18T05:32:08.621Z",
     "original_repository": "one-aalam/awesome-solid-js",
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",
