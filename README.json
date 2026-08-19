@@ -1,262 +1,273 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130884470,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:45:41Z",
+                "owner": "solidjs",
+                "repo": "solid",
+                "stars": 35868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Release Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130884470,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:45:41Z",
+                "owner": "solidjs",
+                "repo": "solid",
+                "stars": 35868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292114957,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T19:39:09Z",
+                "owner": "solidjs",
+                "repo": "solid-playground",
+                "stars": 243
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Resources"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Realworld",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 215692861,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-04T04:57:35Z",
+                    "owner": "solidjs",
+                    "repo": "solid-realworld",
+                    "stars": 232
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hacker News",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 307889459,
+                    "language": "JavaScript",
+                    "last_commit": "2024-03-13T22:17:00Z",
+                    "owner": "solidjs",
+                    "repo": "solid-hackernews",
+                    "stars": 165
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Todo MVC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149561106,
+                    "language": "TypeScript",
+                    "last_commit": "2023-04-02T07:30:36Z",
+                    "owner": "solidjs",
+                    "repo": "solid-todomvc",
+                    "stars": 36
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Official Examples"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Templates",
+                  "description": "(official)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 279057081,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T15:36:00Z",
+                    "owner": "solidjs",
+                    "repo": "templates",
+                    "stars": 539
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DBEST Stack",
+                  "description": "DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 694921887,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-25T20:20:40Z",
+                    "owner": "itsyoboieltr",
+                    "repo": "dbest-stack",
+                    "stars": 102
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid + Supabase Starter Kit",
+                  "description": "Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 382661746,
+                    "language": "TypeScript",
+                    "last_commit": "2022-01-29T17:29:39Z",
+                    "owner": "one-aalam",
+                    "repo": "solid-starter-kit",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid + Wundergraph",
+                  "description": "Build applications with SolidJs and WunderGraph",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 480318698,
+                    "language": "TypeScript",
+                    "last_commit": "2022-08-30T15:14:45Z",
+                    "owner": "verdavaine",
+                    "repo": "solidgraph",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid + Vite + Electron Starter",
+                  "description": "Build an Electron app with SolidJS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 586223905,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-07T17:27:24Z",
+                    "owner": "tgrassl",
+                    "repo": "solid-vite-electron",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "create-solid-library",
+                  "description": "Create a new Solid component library in seconds!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 558148851,
+                    "language": "TypeScript",
+                    "last_commit": "2022-10-27T02:41:23Z",
+                    "owner": "bluskript",
+                    "repo": "create-solid-library",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Starter Kits"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🏃 Examples and Starter Kits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Codeimage.dev",
+              "description": "Create elegant screenshots of your source code. Built with SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454158645,
+                "language": "TypeScript",
+                "last_commit": "2026-03-28T13:48:31Z",
+                "owner": "riccardoperra",
+                "repo": "codeimage",
+                "stars": 2081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tura",
+              "description": "Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS. more coming soon...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291098094,
+                "language": "Rust",
+                "last_commit": "2026-08-17T00:23:04Z",
+                "owner": "Tura-AI",
+                "repo": "tura",
+                "stars": 597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bloki.app",
+              "description": "Blocks-based collaborative editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454422487,
+                "language": "TypeScript",
+                "last_commit": "2024-10-14T18:46:54Z",
+                "owner": "0x241F31",
+                "repo": "bloki",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source"
+        }
+      ],
       "title": "Resources"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub Repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:07:43Z",
-            "owner": "solidjs",
-            "repo": "solid",
-            "stars": 35863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Release Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:07:43Z",
-            "owner": "solidjs",
-            "repo": "solid",
-            "stars": 35863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Playground",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T19:39:09Z",
-            "owner": "solidjs",
-            "repo": "solid-playground",
-            "stars": 243
-          }
-        }
-      ],
-      "title": "Official Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏃 Examples and Starter Kits"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Realworld",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T04:57:35Z",
-            "owner": "solidjs",
-            "repo": "solid-realworld",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hacker News",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-13T22:17:00Z",
-            "owner": "solidjs",
-            "repo": "solid-hackernews",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Todo MVC",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-02T07:30:36Z",
-            "owner": "solidjs",
-            "repo": "solid-todomvc",
-            "stars": 36
-          }
-        }
-      ],
-      "title": "Official Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Templates",
-          "description": "(official)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:36:00Z",
-            "owner": "solidjs",
-            "repo": "templates",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DBEST Stack",
-          "description": "DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-25T20:20:40Z",
-            "owner": "itsyoboieltr",
-            "repo": "dbest-stack",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid + Supabase Starter Kit",
-          "description": "Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-29T17:29:39Z",
-            "owner": "one-aalam",
-            "repo": "solid-starter-kit",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid + Wundergraph",
-          "description": "Build applications with SolidJs and WunderGraph",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-08-30T15:14:45Z",
-            "owner": "verdavaine",
-            "repo": "solidgraph",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid + Vite + Electron Starter",
-          "description": "Build an Electron app with SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-07T17:27:24Z",
-            "owner": "tgrassl",
-            "repo": "solid-vite-electron",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "create-solid-library",
-          "description": "Create a new Solid component library in seconds!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-10-27T02:41:23Z",
-            "owner": "bluskript",
-            "repo": "create-solid-library",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vite + Solid + TailwindCSS Starter",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Starter Kits"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "✍️ Blog Posts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Codeimage.dev",
-          "description": "Create elegant screenshots of your source code. Built with SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-28T13:48:31Z",
-            "owner": "riccardoperra",
-            "repo": "codeimage",
-            "stars": 2081
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tura",
-          "description": "Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS. more coming soon...",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T00:23:04Z",
-            "owner": "Tura-AI",
-            "repo": "tura",
-            "stars": 596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bloki.app",
-          "description": "Blocks-based collaborative editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-10-14T18:46:54Z",
-            "owner": "0x241F31",
-            "repo": "bloki",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -265,6 +276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 922104035,
             "language": "TypeScript",
             "last_commit": "2026-08-17T07:02:58Z",
             "owner": "yamcodes",
@@ -279,6 +291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730707211,
             "language": "TypeScript",
             "last_commit": "2023-12-12T14:06:15Z",
             "owner": "DaniGuardiola",
@@ -290,1449 +303,1563 @@
       "title": "🛠️ Tooling"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Simple Table",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 324089302,
+                    "language": "TypeScript",
+                    "last_commit": "2023-11-26T03:25:51Z",
+                    "owner": "aminya",
+                    "repo": "solid-simple-table",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Table",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 480330604,
+                    "language": "TypeScript",
+                    "last_commit": "2022-04-25T01:59:17Z",
+                    "owner": "Mokshit06",
+                    "repo": "solid-table",
+                    "stars": 35
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Table"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Floating UI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 515603951,
+                    "language": "TypeScript",
+                    "last_commit": "2025-01-20T13:42:08Z",
+                    "owner": "lxsmnsyc",
+                    "repo": "solid-floating-ui",
+                    "stars": 99
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Dismiss",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 397461408,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-24T03:22:31Z",
+                    "owner": "aquaductape",
+                    "repo": "solid-dismiss",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Popper",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 404756883,
+                    "language": "TypeScript",
+                    "last_commit": "2024-06-12T12:23:53Z",
+                    "owner": "lxsmnsyc",
+                    "repo": "solid-popper",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Tippy",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427873587,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-17T09:36:06Z",
+                    "owner": "lxsmnsyc",
+                    "repo": "solid-tippy",
+                    "stars": 36
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Overlay"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unplugin Icons",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 324073430,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-14T10:52:48Z",
+                    "owner": "unplugin",
+                    "repo": "unplugin-icons",
+                    "stars": 4931
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Icons",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 387686045,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-12T23:16:02Z",
+                    "owner": "x64Bits",
+                    "repo": "solid-icons",
+                    "stars": 350
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid SVG",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 393765273,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-26T02:17:21Z",
+                    "owner": "jfgodoy",
+                    "repo": "vite-plugin-solid-svg",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid HeroIcons",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 287823728,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-14T14:52:30Z",
+                    "owner": "amoutonbrady",
+                    "repo": "solid-heroicons",
+                    "stars": 82
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Icons"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid ApexCharts",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 458083550,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-19T05:27:59Z",
+                    "owner": "wobsoriano",
+                    "repo": "solid-apexcharts",
+                    "stars": 75
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Chart.js",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640399437,
+                    "language": "TypeScript",
+                    "last_commit": "2024-07-14T02:04:02Z",
+                    "owner": "s0ftik3",
+                    "repo": "solid-chartjs",
+                    "stars": 62
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Charts"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Transition Group",
+                  "description": "(official)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 306806142,
+                    "language": "TypeScript",
+                    "last_commit": "2025-06-09T21:24:39Z",
+                    "owner": "solidjs-community",
+                    "repo": "solid-transition-group",
+                    "stars": 299
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Spring",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 456502557,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-03T23:33:54Z",
+                    "owner": "solidjs-community",
+                    "repo": "solid-spring",
+                    "stars": 86
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Flip",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 387847238,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-13T07:49:58Z",
+                    "owner": "otonashixav",
+                    "repo": "solid-flip",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Particles - Particles, confetti, fireworks and more animations",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 564550708,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-15T12:27:28Z",
+                    "owner": "tsparticles",
+                    "repo": "solid",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Animation"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Markdown",
+                  "description": "Render Markdown as Solid components",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 415685622,
+                    "language": "TypeScript",
+                    "last_commit": "2025-11-29T10:39:57Z",
+                    "owner": "andi23rosca",
+                    "repo": "solid-markdown",
+                    "stars": 146
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid MDX",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 441287908,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-14T17:51:27Z",
+                    "owner": "high1",
+                    "repo": "solid-jsx",
+                    "stars": 87
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Markdown"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Neodrag",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 387178718,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-10T10:53:37Z",
+                    "owner": "PuruVJ",
+                    "repo": "neodrag",
+                    "stars": 2447
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid DND Directive",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 412336790,
+                    "language": "TypeScript",
+                    "last_commit": "2021-10-05T09:45:07Z",
+                    "owner": "isaacHagoel",
+                    "repo": "solid-dnd-directive",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dnd kit",
+                  "description": "SolidJS adapter for dnd kit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 963091218,
+                    "language": "TypeScript",
+                    "last_commit": "2025-05-23T05:56:21Z",
+                    "owner": "kachurun",
+                    "repo": "dnd-kit-solid",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Drag and Drop"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Virtua",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549650165,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T10:20:55Z",
+                    "owner": "inokawa",
+                    "repo": "virtua",
+                    "stars": 3718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Virtual Container",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 382627417,
+                    "language": "TypeScript",
+                    "last_commit": "2022-05-15T12:59:51Z",
+                    "owner": "minht11",
+                    "repo": "solid-virtual-container",
+                    "stars": 87
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "List"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Solid Select",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 448133356,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-16T23:36:33Z",
+                    "owner": "thisbeyond",
+                    "repo": "solid-select",
+                    "stars": 201
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Multi-select",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 456564106,
+                    "language": "TypeScript",
+                    "last_commit": "2022-03-10T17:29:53Z",
+                    "owner": "nmrusso",
+                    "repo": "solid-multiselect",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Select"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Felte",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333547090,
+                "language": "TypeScript",
+                "last_commit": "2024-11-05T19:46:01Z",
+                "owner": "pablo-abc",
+                "repo": "felte",
+                "stars": 1088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FormGear",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478774148,
+                "language": "TypeScript",
+                "last_commit": "2022-11-04T05:40:02Z",
+                "owner": "bps-statistics",
+                "repo": "form-gear",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Forms",
+              "description": "Making reusable form components easy and composable. Built upon solid-js/store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498693824,
+                "language": "TypeScript",
+                "last_commit": "2025-01-13T08:51:17Z",
+                "owner": "jorroll",
+                "repo": "solid-forms",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solar Forms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460996610,
+                "language": "TypeScript",
+                "last_commit": "2022-06-19T20:58:51Z",
+                "owner": "kajetansw",
+                "repo": "solar-forms",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solform",
+              "description": "Very lightweight and simply managed forms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440135357,
+                "language": "TypeScript",
+                "last_commit": "2025-08-08T15:06:17Z",
+                "owner": "ragokan",
+                "repo": "solform",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid-quiz",
+              "description": "Simple quiz component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628391311,
+                "language": "JavaScript",
+                "last_commit": "2026-07-29T14:16:49Z",
+                "owner": "doldsimo",
+                "repo": "solid-quiz",
+                "stars": 11
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lexical Solid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 473824263,
+                    "language": "TypeScript",
+                    "last_commit": "2025-04-18T14:05:07Z",
+                    "owner": "mosheduminer",
+                    "repo": "lexical-solid",
+                    "stars": 114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TipTap Solid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 419431398,
+                    "language": "TypeScript",
+                    "last_commit": "2025-05-08T10:39:36Z",
+                    "owner": "andi23rosca",
+                    "repo": "tiptap-solid",
+                    "stars": 61
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Solid Quill",
+                  "description": "(NPM)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 334438181,
+                    "language": "TypeScript",
+                    "last_commit": "2024-11-17T00:16:14Z",
+                    "owner": "amoutonbrady",
+                    "repo": "solid-quill",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Slate Solid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 420599133,
+                    "language": "TypeScript",
+                    "last_commit": "2021-10-24T05:54:24Z",
+                    "owner": "poudels14",
+                    "repo": "slate-solid",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rich-Text Editor"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Form"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid App Router",
+              "description": "(official)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307253603,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T23:09:03Z",
+                "owner": "solidjs",
+                "repo": "solid-router",
+                "stars": 1317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Tiny Router",
+              "description": "Tiny routing library for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424805299,
+                "language": "TypeScript",
+                "last_commit": "2022-05-27T02:03:55Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-tiny-router",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Typefu Router5",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281308766,
+                "language": "TypeScript",
+                "last_commit": "2023-01-14T01:56:40Z",
+                "owner": "mikeplus64",
+                "repo": "solid-typefu-router5",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Routing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Typesafe i18n",
+              "description": "SolidJS adapter for typesafe-i18n",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324985811,
+                "language": "TypeScript",
+                "last_commit": "2026-03-22T20:28:52Z",
+                "owner": "codingcommons",
+                "repo": "typesafe-i18n",
+                "stars": 2474
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Primitives — i18n",
+              "description": "Library of internationalisation primitives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369884446,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T01:34:17Z",
+                "owner": "solidjs-community",
+                "repo": "solid-primitives",
+                "stars": 1548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "i18n-pro/solid",
+              "description": "Lightweight, simple, flexible, automatic translation internationalization tool for Solid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600417630,
+                "language": "TypeScript",
+                "last_commit": "2025-09-06T10:33:26Z",
+                "owner": "i18n-pro",
+                "repo": "solid",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internationalisation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Effector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123197392,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T00:21:18Z",
+                "owner": "effector",
+                "repo": "effector",
+                "stars": 4846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Zustand",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383510143,
+                "language": "TypeScript",
+                "last_commit": "2025-12-10T03:24:03Z",
+                "owner": "wobsoriano",
+                "repo": "solid-zustand",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Services",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445865183,
+                "language": "TypeScript",
+                "last_commit": "2026-04-15T10:06:47Z",
+                "owner": "Exelord",
+                "repo": "solid-services",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Nanostores",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395673009,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T02:56:51Z",
+                "owner": "nanostores",
+                "repo": "solid",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Jotai",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575101587,
+                "language": "TypeScript",
+                "last_commit": "2025-03-15T22:03:01Z",
+                "owner": "jotaijs",
+                "repo": "solid-jotai",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gstatem",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445826899,
+                "language": "TypeScript",
+                "last_commit": "2022-04-08T13:57:12Z",
+                "owner": "gstatem",
+                "repo": "gstatem",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "State Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Element",
+              "description": "Library for authoring web components with SolidJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130884470,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:45:41Z",
+                "owner": "solidjs",
+                "repo": "solid",
+                "stars": 35868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lume Element",
+              "description": "Fast and simple custom elements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241555187,
+                "language": "TypeScript",
+                "last_commit": "2026-04-25T00:34:08Z",
+                "owner": "lume",
+                "repo": "element",
+                "stars": 186
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Suid",
+              "description": "A port of Material-UI (MUI) built with Solid.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472076298,
+                "language": "TypeScript",
+                "last_commit": "2025-07-05T09:52:12Z",
+                "owner": "swordev",
+                "repo": "suid",
+                "stars": 747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Headless",
+              "description": "Headless UI for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397940426,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:09:13Z",
+                "owner": "lxsmnsyc",
+                "repo": "terracotta",
+                "stars": 702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid ARIA",
+              "description": "A library of high-quality primitives that help you build accessible user interfaces with SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484079544,
+                "language": "TypeScript",
+                "last_commit": "2022-11-07T01:41:14Z",
+                "owner": "solidjs-community",
+                "repo": "solid-aria",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid CodeMirror",
+              "description": "CodeMirror 6 component for SolidJS (yes, there are two)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455813384,
+                "language": "TypeScript",
+                "last_commit": "2026-05-12T18:31:34Z",
+                "owner": "riccardoperra",
+                "repo": "solid-codemirror",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid RevKit",
+              "description": "RevKit UI for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 450550034,
+                "language": "TypeScript",
+                "last_commit": "2023-10-23T01:46:23Z",
+                "owner": "specialdoom",
+                "repo": "solid-rev-kit",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Knobs",
+              "description": "Primitives for building user-friendly controls with SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499788503,
+                "language": "TypeScript",
+                "last_commit": "2022-12-04T21:12:48Z",
+                "owner": "tahti-studio",
+                "repo": "solid-knobs",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Material",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 593858756,
+                "language": "TypeScript",
+                "last_commit": "2023-07-25T15:31:56Z",
+                "owner": "ceopaludetto",
+                "repo": "solid-material",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid CodeMirror",
+              "description": "CodeMirror 6 component for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 508111363,
+                "language": "TypeScript",
+                "last_commit": "2022-09-20T08:52:00Z",
+                "owner": "nimeshnayaju",
+                "repo": "solid-codemirror",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks & Component Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Use",
+              "description": "A collection of SolidJS utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396626909,
+                "language": "TypeScript",
+                "last_commit": "2026-03-17T07:22:14Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-use",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Immer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469123038,
+                "language": "TypeScript",
+                "last_commit": "2022-03-12T17:22:28Z",
+                "owner": "myWsq",
+                "repo": "solid-immer",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Proxies",
+              "description": "Solid.js library adding signaling to built-in non-primitives",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461458947,
+                "language": "TypeScript",
+                "last_commit": "2026-04-16T20:41:04Z",
+                "owner": "Exelord",
+                "repo": "solid-proxies",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Hooks",
+              "description": "A high-quality & reliable Solid Hooks library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706243719,
+                "language": "TypeScript",
+                "last_commit": "2023-12-04T16:31:24Z",
+                "owner": "any-hooks",
+                "repo": "solid-hooks",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Request",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616380362,
+                "language": "TypeScript",
+                "last_commit": "2023-05-16T02:28:07Z",
+                "owner": "NelsonYong",
+                "repo": "solid-request",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Primitives",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163436888,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T01:33:25Z",
+                "owner": "davedbase",
+                "repo": "solid-primitives",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)",
+          "node_type": "group",
+          "title": "Helpers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid URQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382822773,
+                "language": "TypeScript",
+                "last_commit": "2022-05-31T12:57:22Z",
+                "owner": "tqwewe",
+                "repo": "solid-urql",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@stitchapi/solid",
+              "description": "(NPM) - Streaming-first StitchAPI bindings: typed, validated / primitives that reconcile a Solid store as response deltas arrive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843446123,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T17:27:11Z",
+                "owner": "rejifald",
+                "repo": "StitchAPI",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Querying/GraphQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Testing Library",
+              "description": "(official)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339000240,
+                "language": "TypeScript",
+                "last_commit": "2026-05-28T11:46:53Z",
+                "owner": "solidjs",
+                "repo": "solid-testing-library",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Jest",
+              "description": "(official)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345030036,
+                "language": "JavaScript",
+                "last_commit": "2023-05-19T14:27:16Z",
+                "owner": "solidjs",
+                "repo": "solid-jest",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solid-register",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419481397,
+                "language": "TypeScript",
+                "last_commit": "2022-05-07T19:04:59Z",
+                "owner": "atk",
+                "repo": "solid-register",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LocatorJS",
+              "description": "Click on any component to go to it's code. (it's also built with SolidJS)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432777348,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T12:13:36Z",
+                "owner": "infi-pc",
+                "repo": "locatorjs",
+                "stars": 1823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESLint for Solid",
+              "description": "Solid-specific linting rules for ESLint",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383257021,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T20:26:58Z",
+                "owner": "solidjs-community",
+                "repo": "eslint-plugin-solid",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babel Solid Plugin - Labels",
+              "description": "Simple, reactive labels for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407243045,
+                "language": "TypeScript",
+                "last_commit": "2025-03-14T03:07:12Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-labels",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babel Solid Plugin - Undestructure",
+              "description": "Destructure component props without losing reactivity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401382055,
+                "language": "JavaScript",
+                "last_commit": "2024-07-14T23:11:44Z",
+                "owner": "orenelbaum",
+                "repo": "babel-plugin-solid-undestructure",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Refresh (HMR)",
+              "description": "(official) - HMR for Solid for various bundlers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340609080,
+                "language": "TypeScript",
+                "last_commit": "2026-04-17T06:09:55Z",
+                "owner": "solidjs",
+                "repo": "solid-refresh",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vite-plugin-inline-css-modules",
+              "description": "Zero runtime plugin to write CSS modules inside of component files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488274939,
+                "language": "TypeScript",
+                "last_commit": "2024-04-16T00:01:13Z",
+                "owner": "bluskript",
+                "repo": "vite-plugin-inline-css-modules",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESBuild Solid Plugin",
+              "description": "(NPM) - Plugin to compile solid-js jsx components with ESbuild.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325884480,
+                "language": "TypeScript",
+                "last_commit": "2025-02-10T20:30:16Z",
+                "owner": "amoutonbrady",
+                "repo": "esbuild-plugin-solid",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roll-up preset for Solid Libraries",
+              "description": "Preset for rollup to bundle your solid libraries with rollup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347483914,
+                "language": "TypeScript",
+                "last_commit": "2025-02-10T21:17:33Z",
+                "owner": "solidjs-community",
+                "repo": "rollup-preset-solid",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid SFC(Experimental)",
+              "description": "Experimental SFC compiler for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430674145,
+                "language": "TypeScript",
+                "last_commit": "2022-05-25T16:43:51Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-sfc",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DX"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Styled",
+              "description": "Reactive stylesheets for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448813253,
+                "language": "TypeScript",
+                "last_commit": "2026-04-21T05:22:09Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-styled",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Discrete Typography",
+              "description": "Experimental tool inspired by Capsize, implemented in Solid JS. Generates x-height and cap-height CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510552635,
+                "language": "TypeScript",
+                "last_commit": "2022-07-05T10:09:54Z",
+                "owner": "zaydek",
+                "repo": "discrete-typography",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Styling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Dexie",
+              "description": "Dexie(wrapper around IndexedDB) integration for Solid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511211911,
+                "language": "TypeScript",
+                "last_commit": "2025-10-13T14:29:45Z",
+                "owner": "faassen",
+                "repo": "solid-dexie",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Cache",
+              "description": "Resource caching in SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509902748,
+                "language": "TypeScript",
+                "last_commit": "2025-03-14T02:59:13Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-cache",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Storage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Start",
+              "description": "Official meta framework for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352861350,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:23:25Z",
+                "owner": "solidjs",
+                "repo": "solid-start",
+                "stars": 5908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "create-jd-app",
+              "description": "The quickest and most efficient way to start new full stack, type safed Solid web app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528208451,
+                "language": "TypeScript",
+                "last_commit": "2025-03-21T16:31:08Z",
+                "owner": "OrJDev",
+                "repo": "create-jd-app",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidus JS",
+              "description": "Plug-and-Play SSR for SolidJS (In Development)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449085693,
+                "language": "TypeScript",
+                "last_commit": "2023-02-24T07:52:24Z",
+                "owner": "Perivel",
+                "repo": "solid-pod",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SSR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mitosis",
+              "description": "(playground)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310456670,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T14:38:54Z",
+                "owner": "BuilderIO",
+                "repo": "mitosis",
+                "stars": 13902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vite Plugin - SSR",
+              "description": "(Solid Example)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695274920,
+                "language": "TypeScript",
+                "last_commit": "2026-06-08T22:00:58Z",
+                "owner": "brillout",
+                "repo": "vite-plugin-ssr",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Works with Solid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solid Command Palette",
+              "description": "UI Library for Command Palette in SolidJS webapps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450847216,
+                "language": "TypeScript",
+                "last_commit": "2024-07-28T15:04:22Z",
+                "owner": "itaditya",
+                "repo": "solid-command-palette",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Firebase",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456372793,
+                "language": "TypeScript",
+                "last_commit": "2023-08-07T01:42:53Z",
+                "owner": "wobsoriano",
+                "repo": "solid-firebase",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React2Solid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477003626,
+                "language": "TypeScript",
+                "last_commit": "2022-04-12T00:52:40Z",
+                "owner": "rrjanbiah",
+                "repo": "react2solid",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Emoji Picker",
+              "description": "Unstyled emoji picker for SolidJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433899866,
+                "language": "TypeScript",
+                "last_commit": "2024-04-16T05:23:29Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-emoji-picker",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid Giphy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419567859,
+                "language": "TypeScript",
+                "last_commit": "2022-01-25T03:10:34Z",
+                "owner": "lxsmnsyc",
+                "repo": "solid-giphy",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "more coming soon...",
+          "node_type": "group",
+          "title": "Misc."
+        }
+      ],
       "title": "📦 Components & Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "UI Components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Simple Table",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-11-26T03:25:51Z",
-            "owner": "aminya",
-            "repo": "solid-simple-table",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Table",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-04-25T01:59:17Z",
-            "owner": "Mokshit06",
-            "repo": "solid-table",
-            "stars": 35
-          }
-        }
-      ],
-      "title": "Table"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Floating UI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-20T13:42:08Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-floating-ui",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Dismiss",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-24T03:22:31Z",
-            "owner": "aquaductape",
-            "repo": "solid-dismiss",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Popper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-12T12:23:53Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-popper",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Tippy",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-17T09:36:06Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-tippy",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Ninja Keys",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Overlay"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Unplugin Icons",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-14T10:52:48Z",
-            "owner": "unplugin",
-            "repo": "unplugin-icons",
-            "stars": 4929
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Icons",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-12T23:16:02Z",
-            "owner": "x64Bits",
-            "repo": "solid-icons",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid SVG",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-26T02:17:21Z",
-            "owner": "jfgodoy",
-            "repo": "vite-plugin-solid-svg",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid HeroIcons",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-14T14:52:30Z",
-            "owner": "amoutonbrady",
-            "repo": "solid-heroicons",
-            "stars": 82
-          }
-        }
-      ],
-      "title": "Icons"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid ApexCharts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-19T05:27:59Z",
-            "owner": "wobsoriano",
-            "repo": "solid-apexcharts",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Chart.js",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-14T02:04:02Z",
-            "owner": "s0ftik3",
-            "repo": "solid-chartjs",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Charts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Transition Group",
-          "description": "(official)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-09T21:24:39Z",
-            "owner": "solidjs-community",
-            "repo": "solid-transition-group",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Spring",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-03T23:33:54Z",
-            "owner": "solidjs-community",
-            "repo": "solid-spring",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Flip",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-01-13T07:49:58Z",
-            "owner": "otonashixav",
-            "repo": "solid-flip",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Particles - Particles, confetti, fireworks and more animations",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-04-15T12:27:28Z",
-            "owner": "tsparticles",
-            "repo": "solid",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Animation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Markdown",
-          "description": "Render Markdown as Solid components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-29T10:39:57Z",
-            "owner": "andi23rosca",
-            "repo": "solid-markdown",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid MDX",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T17:51:27Z",
-            "owner": "high1",
-            "repo": "solid-jsx",
-            "stars": 87
-          }
-        }
-      ],
-      "title": "Markdown"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Neodrag",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T10:53:37Z",
-            "owner": "PuruVJ",
-            "repo": "neodrag",
-            "stars": 2447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid DND Directive",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-10-05T09:45:07Z",
-            "owner": "isaacHagoel",
-            "repo": "solid-dnd-directive",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dnd kit",
-          "description": "SolidJS adapter for dnd kit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-23T05:56:21Z",
-            "owner": "kachurun",
-            "repo": "dnd-kit-solid",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Drag and Drop"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Virtua",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:40:34Z",
-            "owner": "inokawa",
-            "repo": "virtua",
-            "stars": 3718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Virtual Container",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-15T12:59:51Z",
-            "owner": "minht11",
-            "repo": "solid-virtual-container",
-            "stars": 87
-          }
-        }
-      ],
-      "title": "List"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Select",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-16T23:36:33Z",
-            "owner": "thisbeyond",
-            "repo": "solid-select",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Multi-select",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-10T17:29:53Z",
-            "owner": "nmrusso",
-            "repo": "solid-multiselect",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Select"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Felte",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-05T19:46:01Z",
-            "owner": "pablo-abc",
-            "repo": "felte",
-            "stars": 1088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FormGear",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-11-04T05:40:02Z",
-            "owner": "bps-statistics",
-            "repo": "form-gear",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Forms",
-          "description": "Making reusable form components easy and composable. Built upon solid-js/store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-13T08:51:17Z",
-            "owner": "jorroll",
-            "repo": "solid-forms",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solar Forms",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-06-19T20:58:51Z",
-            "owner": "kajetansw",
-            "repo": "solar-forms",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solform",
-          "description": "Very lightweight and simply managed forms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-08T15:06:17Z",
-            "owner": "ragokan",
-            "repo": "solform",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid-quiz",
-          "description": "Simple quiz component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-29T14:16:49Z",
-            "owner": "doldsimo",
-            "repo": "solid-quiz",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Form"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lexical Solid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-18T14:05:07Z",
-            "owner": "mosheduminer",
-            "repo": "lexical-solid",
-            "stars": 114
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TipTap Solid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-08T10:39:36Z",
-            "owner": "andi23rosca",
-            "repo": "tiptap-solid",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Quill",
-          "description": "(NPM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-17T00:16:14Z",
-            "owner": "amoutonbrady",
-            "repo": "solid-quill",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slate Solid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-10-24T05:54:24Z",
-            "owner": "poudels14",
-            "repo": "slate-solid",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Rich-Text Editor"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid App Router",
-          "description": "(official)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T23:09:03Z",
-            "owner": "solidjs",
-            "repo": "solid-router",
-            "stars": 1317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Tiny Router",
-          "description": "Tiny routing library for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-27T02:03:55Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-tiny-router",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Typefu Router5",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-14T01:56:40Z",
-            "owner": "mikeplus64",
-            "repo": "solid-typefu-router5",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Routing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Typesafe i18n",
-          "description": "SolidJS adapter for typesafe-i18n",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-22T20:28:52Z",
-            "owner": "codingcommons",
-            "repo": "typesafe-i18n",
-            "stars": 2474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Primitives — i18n",
-          "description": "Library of internationalisation primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:34:17Z",
-            "owner": "solidjs-community",
-            "repo": "solid-primitives",
-            "stars": 1547
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "i18n-pro/solid",
-          "description": "Lightweight, simple, flexible, automatic translation internationalization tool for Solid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-06T10:33:26Z",
-            "owner": "i18n-pro",
-            "repo": "solid",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Internationalisation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Effector",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-25T00:21:18Z",
-            "owner": "effector",
-            "repo": "effector",
-            "stars": 4846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Zustand",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-10T03:24:03Z",
-            "owner": "wobsoriano",
-            "repo": "solid-zustand",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Services",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-15T10:06:47Z",
-            "owner": "Exelord",
-            "repo": "solid-services",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Nanostores",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T02:56:51Z",
-            "owner": "nanostores",
-            "repo": "solid",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Jotai",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-15T22:03:01Z",
-            "owner": "jotaijs",
-            "repo": "solid-jotai",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gstatem",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-04-08T13:57:12Z",
-            "owner": "gstatem",
-            "repo": "gstatem",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "State Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Element",
-          "description": "Library for authoring web components with SolidJS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:07:43Z",
-            "owner": "solidjs",
-            "repo": "solid",
-            "stars": 35863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lume Element",
-          "description": "Fast and simple custom elements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-25T00:34:08Z",
-            "owner": "lume",
-            "repo": "element",
-            "stars": 186
-          }
-        }
-      ],
-      "title": "Web Components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Suid",
-          "description": "A port of Material-UI (MUI) built with Solid.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-05T09:52:12Z",
-            "owner": "swordev",
-            "repo": "suid",
-            "stars": 747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Headless",
-          "description": "Headless UI for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T02:18:08Z",
-            "owner": "lxsmnsyc",
-            "repo": "terracotta",
-            "stars": 703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid ARIA",
-          "description": "A library of high-quality primitives that help you build accessible user interfaces with SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-11-07T01:41:14Z",
-            "owner": "solidjs-community",
-            "repo": "solid-aria",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid CodeMirror",
-          "description": "CodeMirror 6 component for SolidJS (yes, there are two)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-12T18:31:34Z",
-            "owner": "riccardoperra",
-            "repo": "solid-codemirror",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid RevKit",
-          "description": "RevKit UI for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-10-23T01:46:23Z",
-            "owner": "specialdoom",
-            "repo": "solid-rev-kit",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Knobs",
-          "description": "Primitives for building user-friendly controls with SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-04T21:12:48Z",
-            "owner": "tahti-studio",
-            "repo": "solid-knobs",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Material",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-07-25T15:31:56Z",
-            "owner": "ceopaludetto",
-            "repo": "solid-material",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid CodeMirror",
-          "description": "CodeMirror 6 component for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-20T08:52:00Z",
-            "owner": "nimeshnayaju",
-            "repo": "solid-codemirror",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Frameworks & Component Libraries"
-    },
-    {
-      "description": "Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Use",
-          "description": "A collection of SolidJS utilities",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-17T07:22:14Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-use",
-            "stars": 193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Immer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-12T17:22:28Z",
-            "owner": "myWsq",
-            "repo": "solid-immer",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Proxies",
-          "description": "Solid.js library adding signaling to built-in non-primitives",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-16T20:41:04Z",
-            "owner": "Exelord",
-            "repo": "solid-proxies",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Hooks",
-          "description": "A high-quality & reliable Solid Hooks library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-04T16:31:24Z",
-            "owner": "any-hooks",
-            "repo": "solid-hooks",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Request",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-16T02:28:07Z",
-            "owner": "NelsonYong",
-            "repo": "solid-request",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Primitives",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:33:25Z",
-            "owner": "davedbase",
-            "repo": "solid-primitives",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Helpers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid URQL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-31T12:57:22Z",
-            "owner": "tqwewe",
-            "repo": "solid-urql",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@stitchapi/solid",
-          "description": "(NPM) - Streaming-first StitchAPI bindings: typed, validated / primitives that reconcile a Solid store as response deltas arrive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:27:11Z",
-            "owner": "rejifald",
-            "repo": "StitchAPI",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Querying/GraphQL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Testing Library",
-          "description": "(official)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-28T11:46:53Z",
-            "owner": "solidjs",
-            "repo": "solid-testing-library",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Jest",
-          "description": "(official)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-19T14:27:16Z",
-            "owner": "solidjs",
-            "repo": "solid-jest",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solid-register",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-07T19:04:59Z",
-            "owner": "atk",
-            "repo": "solid-register",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LocatorJS",
-          "description": "Click on any component to go to it's code. (it's also built with SolidJS)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T12:13:36Z",
-            "owner": "infi-pc",
-            "repo": "locatorjs",
-            "stars": 1823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESLint for Solid",
-          "description": "Solid-specific linting rules for ESLint",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T20:26:58Z",
-            "owner": "solidjs-community",
-            "repo": "eslint-plugin-solid",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Babel Solid Plugin - Labels",
-          "description": "Simple, reactive labels for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-14T03:07:12Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-labels",
-            "stars": 256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Babel Solid Plugin - Undestructure",
-          "description": "Destructure component props without losing reactivity",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-14T23:11:44Z",
-            "owner": "orenelbaum",
-            "repo": "babel-plugin-solid-undestructure",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Refresh (HMR)",
-          "description": "(official) - HMR for Solid for various bundlers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-17T06:09:55Z",
-            "owner": "solidjs",
-            "repo": "solid-refresh",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vite-plugin-inline-css-modules",
-          "description": "Zero runtime plugin to write CSS modules inside of component files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-16T00:01:13Z",
-            "owner": "bluskript",
-            "repo": "vite-plugin-inline-css-modules",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESBuild Solid Plugin",
-          "description": "(NPM) - Plugin to compile solid-js jsx components with ESbuild.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-10T20:30:16Z",
-            "owner": "amoutonbrady",
-            "repo": "esbuild-plugin-solid",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Roll-up preset for Solid Libraries",
-          "description": "Preset for rollup to bundle your solid libraries with rollup",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-10T21:17:33Z",
-            "owner": "solidjs-community",
-            "repo": "rollup-preset-solid",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid SFC(Experimental)",
-          "description": "Experimental SFC compiler for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-25T16:43:51Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-sfc",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "DX"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Styled",
-          "description": "Reactive stylesheets for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-21T05:22:09Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-styled",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Discrete Typography",
-          "description": "Experimental tool inspired by Capsize, implemented in Solid JS. Generates x-height and cap-height CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-07-05T10:09:54Z",
-            "owner": "zaydek",
-            "repo": "discrete-typography",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Styling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Dexie",
-          "description": "Dexie(wrapper around IndexedDB) integration for Solid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-13T14:29:45Z",
-            "owner": "faassen",
-            "repo": "solid-dexie",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Cache",
-          "description": "Resource caching in SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-14T02:59:13Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-cache",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Storage"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Start",
-          "description": "Official meta framework for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:22:57Z",
-            "owner": "solidjs",
-            "repo": "solid-start",
-            "stars": 5910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "create-jd-app",
-          "description": "The quickest and most efficient way to start new full stack, type safed Solid web app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-21T16:31:08Z",
-            "owner": "OrJDev",
-            "repo": "create-jd-app",
-            "stars": 668
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidus JS",
-          "description": "Plug-and-Play SSR for SolidJS (In Development)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-24T07:52:24Z",
-            "owner": "Perivel",
-            "repo": "solid-pod",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "SSR"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mitosis",
-          "description": "(playground)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T14:38:54Z",
-            "owner": "BuilderIO",
-            "repo": "mitosis",
-            "stars": 13901
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vite Plugin - SSR",
-          "description": "(Solid Example)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-08T22:00:58Z",
-            "owner": "brillout",
-            "repo": "vite-plugin-ssr",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Works with Solid"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solid Command Palette",
-          "description": "UI Library for Command Palette in SolidJS webapps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-28T15:04:22Z",
-            "owner": "itaditya",
-            "repo": "solid-command-palette",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Firebase",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-07T01:42:53Z",
-            "owner": "wobsoriano",
-            "repo": "solid-firebase",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React2Solid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-04-12T00:52:40Z",
-            "owner": "rrjanbiah",
-            "repo": "react2solid",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Emoji Picker",
-          "description": "Unstyled emoji picker for SolidJS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-16T05:23:29Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-emoji-picker",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid Giphy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-01-25T03:10:34Z",
-            "owner": "lxsmnsyc",
-            "repo": "solid-giphy",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Misc."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:32:55.717Z",
+    "last_updated": "2026-08-19T12:54:20.949Z",
     "original_repository": "one-aalam/awesome-solid-js",
+    "original_repository_id": 385551716,
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",
     "enhanced_repository_description": null,
