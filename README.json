@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:42:43Z",
+                "last_commit": "2026-08-28T17:01:53Z",
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35927
-              }
+                "stars": 35934
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:42:43Z",
+                "last_commit": "2026-08-28T17:01:53Z",
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35927
-              }
+                "stars": 35934
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "solidjs",
                 "repo": "solid-playground",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -72,7 +75,8 @@
                     "owner": "solidjs",
                     "repo": "solid-realworld",
                     "stars": 233
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "solidjs",
                     "repo": "solid-hackernews",
                     "stars": 165
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "solidjs",
                     "repo": "solid-todomvc",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "wobsoriano",
                     "repo": "solid-whiteboard",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -146,7 +153,8 @@
                     "owner": "solidjs",
                     "repo": "templates",
                     "stars": 538
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +169,8 @@
                     "owner": "itsyoboieltr",
                     "repo": "dbest-stack",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +185,8 @@
                     "owner": "one-aalam",
                     "repo": "solid-starter-kit",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +201,8 @@
                     "owner": "verdavaine",
                     "repo": "solidgraph",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +217,8 @@
                     "owner": "tgrassl",
                     "repo": "solid-vite-electron",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +233,8 @@
                     "owner": "bluskript",
                     "repo": "create-solid-library",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -248,7 +261,8 @@
                 "owner": "teknologi-umum",
                 "repo": "solidjs-for-x-developer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -269,8 +283,9 @@
                 "last_commit": "2026-03-28T13:48:31Z",
                 "owner": "riccardoperra",
                 "repo": "codeimage",
-                "stars": 2087
-              }
+                "stars": 2086
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -284,8 +299,9 @@
                 "last_commit": "2026-08-20T09:52:51Z",
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 601
-              }
+                "stars": 603
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -300,7 +316,8 @@
                 "owner": "0x241F31",
                 "repo": "bloki",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -322,7 +339,8 @@
                 "owner": "solidjs-community",
                 "repo": "made-in-solid",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -344,11 +362,12 @@
             "archived": false,
             "id": 922104035,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:02:10Z",
+            "last_commit": "2026-08-28T17:11:12Z",
             "owner": "yamcodes",
             "repo": "arkenv",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:12:10.187Z"
         },
         {
           "node_type": "item",
@@ -363,7 +382,8 @@
             "owner": "DaniGuardiola",
             "repo": "bun-plugin-solid",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T17:12:10.187Z"
         }
       ],
       "title": "🛠️ Tooling"
@@ -388,7 +408,8 @@
                     "owner": "aminya",
                     "repo": "solid-simple-table",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -403,7 +424,8 @@
                     "owner": "Mokshit06",
                     "repo": "solid-table",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -425,7 +447,8 @@
                     "owner": "lxsmnsyc",
                     "repo": "solid-floating-ui",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -440,7 +463,8 @@
                     "owner": "aquaductape",
                     "repo": "solid-dismiss",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +479,8 @@
                     "owner": "lxsmnsyc",
                     "repo": "solid-popper",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -470,7 +495,8 @@
                     "owner": "lxsmnsyc",
                     "repo": "solid-tippy",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -492,7 +518,8 @@
                     "owner": "bluskript",
                     "repo": "solid-split-pane",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -514,7 +541,8 @@
                     "owner": "unplugin",
                     "repo": "unplugin-icons",
                     "stars": 4934
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -529,7 +557,8 @@
                     "owner": "x64Bits",
                     "repo": "solid-icons",
                     "stars": 350
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -544,7 +573,8 @@
                     "owner": "jfgodoy",
                     "repo": "vite-plugin-solid-svg",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -559,7 +589,8 @@
                     "owner": "amoutonbrady",
                     "repo": "solid-heroicons",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -581,7 +612,8 @@
                     "owner": "davedbase",
                     "repo": "solid-slider",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -603,7 +635,8 @@
                     "owner": "wobsoriano",
                     "repo": "solid-apexcharts",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -618,7 +651,8 @@
                     "owner": "s0ftik3",
                     "repo": "solid-chartjs",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -640,7 +674,8 @@
                     "owner": "solidjs-community",
                     "repo": "solid-transition-group",
                     "stars": 299
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -655,7 +690,8 @@
                     "owner": "solidjs-community",
                     "repo": "solid-spring",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -670,7 +706,8 @@
                     "owner": "otonashixav",
                     "repo": "solid-flip",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -685,7 +722,8 @@
                     "owner": "tsparticles",
                     "repo": "solid",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -707,7 +745,8 @@
                     "owner": "GIShub4",
                     "repo": "solid-map-gl",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -729,7 +768,8 @@
                     "owner": "andi23rosca",
                     "repo": "solid-markdown",
                     "stars": 147
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -744,7 +784,8 @@
                     "owner": "high1",
                     "repo": "solid-jsx",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -765,8 +806,9 @@
                     "last_commit": "2026-08-10T10:53:37Z",
                     "owner": "PuruVJ",
                     "repo": "neodrag",
-                    "stars": 2449
-                  }
+                    "stars": 2450
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -781,7 +823,8 @@
                     "owner": "isaacHagoel",
                     "repo": "solid-dnd-directive",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -796,7 +839,8 @@
                     "owner": "kachurun",
                     "repo": "dnd-kit-solid",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -814,11 +858,12 @@
                     "archived": false,
                     "id": 549650165,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T15:52:49Z",
+                    "last_commit": "2026-08-27T18:22:50Z",
                     "owner": "inokawa",
                     "repo": "virtua",
                     "stars": 3728
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -833,7 +878,8 @@
                     "owner": "minht11",
                     "repo": "solid-virtual-container",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -855,7 +901,8 @@
                     "owner": "dolsem",
                     "repo": "perfectly-scrollable",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -877,7 +924,8 @@
                     "owner": "thisbeyond",
                     "repo": "solid-select",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -892,7 +940,8 @@
                     "owner": "nmrusso",
                     "repo": "solid-multiselect",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -914,7 +963,8 @@
                     "owner": "davedbase",
                     "repo": "solid-slider",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -936,7 +986,8 @@
                     "owner": "untemps",
                     "repo": "solid-readotron",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -963,7 +1014,8 @@
                 "owner": "pablo-abc",
                 "repo": "felte",
                 "stars": 1086
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -978,7 +1030,8 @@
                 "owner": "bps-statistics",
                 "repo": "form-gear",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -993,7 +1046,8 @@
                 "owner": "jorroll",
                 "repo": "solid-forms",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1062,8 @@
                 "owner": "kajetansw",
                 "repo": "solar-forms",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1078,8 @@
                 "owner": "ragokan",
                 "repo": "solform",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1038,7 +1094,8 @@
                 "owner": "doldsimo",
                 "repo": "solid-quiz",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "children": [
@@ -1055,7 +1112,8 @@
                     "owner": "mosheduminer",
                     "repo": "lexical-solid",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1128,8 @@
                     "owner": "andi23rosca",
                     "repo": "tiptap-solid",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -1085,7 +1144,8 @@
                     "owner": "amoutonbrady",
                     "repo": "solid-quill",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 },
                 {
                   "node_type": "item",
@@ -1100,7 +1160,8 @@
                     "owner": "poudels14",
                     "repo": "slate-solid",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:12:10.187Z"
                 }
               ],
               "description": null,
@@ -1127,7 +1188,8 @@
                 "owner": "solidjs",
                 "repo": "solid-router",
                 "stars": 1317
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1204,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-tiny-router",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1220,8 @@
                 "owner": "mikeplus64",
                 "repo": "solid-typefu-router5",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1179,7 +1243,8 @@
                 "owner": "solidjs",
                 "repo": "solid-meta",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1201,7 +1266,8 @@
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
                 "stars": 2475
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1215,8 +1281,9 @@
                 "last_commit": "2026-08-22T16:14:42Z",
                 "owner": "solidjs-community",
                 "repo": "solid-primitives",
-                "stars": 1552
-              }
+                "stars": 1553
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1231,7 +1298,8 @@
                 "owner": "i18n-pro",
                 "repo": "solid",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1253,7 +1321,8 @@
                 "owner": "effector",
                 "repo": "effector",
                 "stars": 4849
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1268,7 +1337,8 @@
                 "owner": "wobsoriano",
                 "repo": "solid-zustand",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1353,8 @@
                 "owner": "Exelord",
                 "repo": "solid-services",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1369,8 @@
                 "owner": "nanostores",
                 "repo": "solid",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1385,8 @@
                 "owner": "jotaijs",
                 "repo": "solid-jotai",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1401,8 @@
                 "owner": "gstatem",
                 "repo": "gstatem",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1346,11 +1420,12 @@
                 "archived": false,
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:42:43Z",
+                "last_commit": "2026-08-28T17:01:53Z",
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35927
-              }
+                "stars": 35934
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1365,7 +1440,8 @@
                 "owner": "lume",
                 "repo": "element",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1387,7 +1463,8 @@
                 "owner": "swordev",
                 "repo": "suid",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1479,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "terracotta",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1495,8 @@
                 "owner": "solidjs-community",
                 "repo": "solid-aria",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1431,8 +1510,9 @@
                 "last_commit": "2026-05-12T18:31:34Z",
                 "owner": "riccardoperra",
                 "repo": "solid-codemirror",
-                "stars": 71
-              }
+                "stars": 72
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1447,7 +1527,8 @@
                 "owner": "specialdoom",
                 "repo": "solid-rev-kit",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1462,7 +1543,8 @@
                 "owner": "tahti-studio",
                 "repo": "solid-knobs",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1477,7 +1559,8 @@
                 "owner": "ceopaludetto",
                 "repo": "solid-material",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1492,7 +1575,8 @@
                 "owner": "nimeshnayaju",
                 "repo": "solid-codemirror",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1514,7 +1598,8 @@
                 "owner": "saraelsa",
                 "repo": "msal-community-solid",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1536,7 +1621,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-use",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1551,7 +1637,8 @@
                 "owner": "myWsq",
                 "repo": "solid-immer",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1566,7 +1653,8 @@
                 "owner": "Exelord",
                 "repo": "solid-proxies",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1581,7 +1669,8 @@
                 "owner": "any-hooks",
                 "repo": "solid-hooks",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1596,7 +1685,8 @@
                 "owner": "NelsonYong",
                 "repo": "solid-request",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1611,7 +1701,8 @@
                 "owner": "davedbase",
                 "repo": "solid-primitives",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": "Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)",
@@ -1633,7 +1724,8 @@
                 "owner": "tqwewe",
                 "repo": "solid-urql",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1644,11 +1736,12 @@
                 "archived": false,
                 "id": 843446123,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:22:24Z",
+                "last_commit": "2026-08-28T16:24:54Z",
                 "owner": "rejifald",
                 "repo": "StitchAPI",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1670,7 +1763,8 @@
                 "owner": "solidjs",
                 "repo": "solid-testing-library",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1685,7 +1779,8 @@
                 "owner": "solidjs",
                 "repo": "solid-jest",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1700,7 +1795,8 @@
                 "owner": "atk",
                 "repo": "solid-register",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1721,8 +1817,9 @@
                 "last_commit": "2026-08-24T06:16:54Z",
                 "owner": "infi-pc",
                 "repo": "locatorjs",
-                "stars": 1823
-              }
+                "stars": 1822
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1737,7 +1834,8 @@
                 "owner": "solidjs-community",
                 "repo": "eslint-plugin-solid",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1752,7 +1850,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-labels",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1767,7 +1866,8 @@
                 "owner": "orenelbaum",
                 "repo": "babel-plugin-solid-undestructure",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1782,7 +1882,8 @@
                 "owner": "solidjs",
                 "repo": "solid-refresh",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1797,7 +1898,8 @@
                 "owner": "bluskript",
                 "repo": "vite-plugin-inline-css-modules",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1812,7 +1914,8 @@
                 "owner": "amoutonbrady",
                 "repo": "esbuild-plugin-solid",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1827,7 +1930,8 @@
                 "owner": "solidjs-community",
                 "repo": "rollup-preset-solid",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1842,7 +1946,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-sfc",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1864,7 +1969,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-styled",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1879,7 +1985,8 @@
                 "owner": "zaydek",
                 "repo": "discrete-typography",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1901,7 +2008,8 @@
                 "owner": "faassen",
                 "repo": "solid-dexie",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1916,7 +2024,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-cache",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1938,7 +2047,8 @@
                 "owner": "solidjs",
                 "repo": "solid-start",
                 "stars": 5916
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1953,7 +2063,8 @@
                 "owner": "OrJDev",
                 "repo": "create-jd-app",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -1968,7 +2079,8 @@
                 "owner": "Perivel",
                 "repo": "solid-pod",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -1989,8 +2101,9 @@
                 "last_commit": "2026-07-21T14:38:54Z",
                 "owner": "BuilderIO",
                 "repo": "mitosis",
-                "stars": 13902
-              }
+                "stars": 13903
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -2005,7 +2118,8 @@
                 "owner": "brillout",
                 "repo": "vite-plugin-ssr",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": null,
@@ -2027,7 +2141,8 @@
                 "owner": "itaditya",
                 "repo": "solid-command-palette",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -2042,7 +2157,8 @@
                 "owner": "wobsoriano",
                 "repo": "solid-firebase",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -2057,7 +2173,8 @@
                 "owner": "rrjanbiah",
                 "repo": "react2solid",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -2072,7 +2189,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-emoji-picker",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             },
             {
               "node_type": "item",
@@ -2087,7 +2205,8 @@
                 "owner": "lxsmnsyc",
                 "repo": "solid-giphy",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:12:10.187Z"
             }
           ],
           "description": "more coming soon...",
@@ -2099,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:13:17.410Z",
+    "last_updated": "2026-08-28T17:12:10.187Z",
     "original_repository_info": {
       "archived": false,
       "id": 385551716,
@@ -2107,7 +2226,7 @@
       "last_commit": "2026-07-29T19:02:50Z",
       "owner": "one-aalam",
       "repo": "awesome-solid-js",
-      "stars": 1001
+      "stars": 1002
     },
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",
