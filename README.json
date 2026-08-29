@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+                "homepage": "https://solidjs.com",
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:01:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:27:41Z",
+                "open_issues": 30,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35934
+                "stars": 35935,
+                "topics": [
+                  "declarative",
+                  "fine-grained",
+                  "javascript",
+                  "jsx",
+                  "performance",
+                  "proxies",
+                  "reactive",
+                  "solid"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -28,12 +42,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+                "homepage": "https://solidjs.com",
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:01:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:27:41Z",
+                "open_issues": 30,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35934
+                "stars": 35935,
+                "topics": [
+                  "declarative",
+                  "fine-grained",
+                  "javascript",
+                  "jsx",
+                  "performance",
+                  "proxies",
+                  "reactive",
+                  "solid"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -44,12 +72,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly discover what the solid compiler will generate from your JSX template",
+                "homepage": "https://playground.solidjs.com",
                 "id": 292114957,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T19:39:09Z",
+                "open_issues": 23,
                 "owner": "solidjs",
                 "repo": "solid-playground",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "compiler",
+                  "repl",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -69,12 +106,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Solid Implementation of the Realworld Example App",
+                    "homepage": null,
                     "id": 215692861,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-03-04T04:57:35Z",
+                    "open_issues": 14,
                     "owner": "solidjs",
                     "repo": "solid-realworld",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -85,12 +127,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solid implementation of Hacker News",
+                    "homepage": null,
                     "id": 307889459,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-03-13T22:17:00Z",
+                    "open_issues": 3,
                     "owner": "solidjs",
                     "repo": "solid-hackernews",
-                    "stars": 165
+                    "stars": 165,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -101,12 +148,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solid implementation of TodoMVC",
+                    "homepage": "https://levelup.gitconnected.com/building-a-simple-javascript-app-with-solid-ff17c8836409",
                     "id": 149561106,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-04-02T07:30:36Z",
+                    "open_issues": 1,
                     "owner": "solidjs",
                     "repo": "solid-todomvc",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -124,12 +176,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "freehand.vercel.app",
                     "id": 383114342,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-06-06T15:27:36Z",
+                    "open_issues": 0,
                     "owner": "wobsoriano",
                     "repo": "solid-whiteboard",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -147,12 +204,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vite + solid templates",
+                    "homepage": null,
                     "id": 279057081,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-08-27T07:49:01Z",
+                    "open_issues": 27,
                     "owner": "solidjs",
                     "repo": "templates",
-                    "stars": 538
+                    "stars": 538,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -163,12 +225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 694921887,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-25T20:20:40Z",
+                    "open_issues": 0,
                     "owner": "itsyoboieltr",
                     "repo": "dbest-stack",
-                    "stars": 102
+                    "stars": 102,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -179,12 +246,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS with brilliant bells and useful whistles",
+                    "homepage": null,
                     "id": 382661746,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2022-01-29T17:29:39Z",
+                    "open_issues": 2,
                     "owner": "one-aalam",
                     "repo": "solid-starter-kit",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": [
+                      "eslint",
+                      "solid",
+                      "starter-kit",
+                      "starter-template",
+                      "supabase",
+                      "supabase-auth",
+                      "supabase-db",
+                      "supabase-js",
+                      "supabase-storage",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -195,12 +278,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 480318698,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2022-08-30T15:14:45Z",
+                    "open_issues": 0,
                     "owner": "verdavaine",
                     "repo": "solidgraph",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -211,12 +299,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS + Vite + Electron template",
+                    "homepage": null,
                     "id": 586223905,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-01-07T17:27:24Z",
+                    "open_issues": 0,
                     "owner": "tgrassl",
                     "repo": "solid-vite-electron",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "electron",
+                      "solid",
+                      "solidjs",
+                      "solidjs-boilerplate",
+                      "template",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -227,12 +327,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔥 Set up your new Solid component library in seconds!",
+                    "homepage": null,
                     "id": 558148851,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-10-27T02:41:23Z",
+                    "open_issues": 0,
                     "owner": "bluskript",
                     "repo": "create-solid-library",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -255,12 +360,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A brief guide for Vue, Svelte and React developers to Solid javascript framework",
+                "homepage": null,
                 "id": 392219298,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-09-05T10:28:03Z",
+                "open_issues": 0,
                 "owner": "teknologi-umum",
                 "repo": "solidjs-for-x-developer",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "javascript-framework",
+                  "react",
+                  "solidjs",
+                  "svelte",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -278,12 +394,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to beautify your code screenshots. Built with SolidJS and Fastify.",
+                "homepage": "https://codeimage.dev",
                 "id": 454158645,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-28T13:48:31Z",
+                "open_issues": 5,
                 "owner": "riccardoperra",
                 "repo": "codeimage",
-                "stars": 2086
+                "stars": 2086,
+                "topics": [
+                  "beautiful",
+                  "code",
+                  "codesnippets",
+                  "editor",
+                  "fastify",
+                  "screenshot",
+                  "sharing",
+                  "snippets",
+                  "solid",
+                  "solid-js",
+                  "tweet",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -294,12 +428,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build agent that uses 80% less token and delivers better results.",
+                "homepage": "https://turaai.net/",
                 "id": 1291098094,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T09:52:51Z",
+                "open_issues": 3,
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 603
+                "stars": 604,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "coding-agent",
+                  "context-engineering",
+                  "developer-tools",
+                  "developer-tools-ai-agent",
+                  "harness-engineering",
+                  "llm",
+                  "mcp",
+                  "terminal-based",
+                  "token-optimization",
+                  "token-usage"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -310,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blocks-based collaborative editor.",
+                "homepage": "https://bloki.app",
                 "id": 454422487,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-10-14T18:46:54Z",
+                "open_issues": 0,
                 "owner": "0x241F31",
                 "repo": "bloki",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -333,12 +490,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SolidJS Portfolio — What have people built with it?",
+                "homepage": null,
                 "id": 511205954,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T11:41:49Z",
+                "open_issues": 1,
                 "owner": "solidjs-community",
                 "repo": "made-in-solid",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -360,12 +524,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛯ Typesafe environment variables with ArkType, Zod, Valibot, and any Standard Schema.",
+            "homepage": "https://arkenv.js.org",
             "id": 922104035,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:11:12Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:45:20Z",
+            "open_issues": 7,
             "owner": "yamcodes",
             "repo": "arkenv",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "arktype",
+              "bun",
+              "cli",
+              "environment-variables",
+              "javascript",
+              "nextjs",
+              "nodejs",
+              "npm",
+              "nuxt",
+              "standard-schema",
+              "typescript",
+              "valibot",
+              "vite",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-28T17:12:10.187Z"
         },
@@ -376,12 +560,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to compile Solid.js with Bun.",
+            "homepage": null,
             "id": 730707211,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-12T14:06:15Z",
+            "open_issues": 2,
             "owner": "DaniGuardiola",
             "repo": "bun-plugin-solid",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "bun",
+              "solidjs"
+            ]
           },
           "first_seen": "2026-08-28T17:12:10.187Z"
         }
@@ -402,12 +594,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blazing fast Table component with solid-js",
+                    "homepage": "https://www.npmjs.com/package/solid-simple-table",
                     "id": 324089302,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-26T03:25:51Z",
+                    "open_issues": 0,
                     "owner": "aminya",
                     "repo": "solid-simple-table",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "component",
+                      "fast",
+                      "react",
+                      "solid",
+                      "solid-js",
+                      "svelte",
+                      "table",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -418,12 +624,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)",
+                    "homepage": "http://solidjs-table.vercel.app/",
                     "id": 480330604,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2022-04-25T01:59:17Z",
+                    "open_issues": 1,
                     "owner": "Mokshit06",
                     "repo": "solid-table",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "react-table",
+                      "reactive",
+                      "solid"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -441,12 +656,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS bindings for Floating UI",
+                    "homepage": null,
                     "id": 515603951,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-01-20T13:42:08Z",
+                    "open_issues": 4,
                     "owner": "lxsmnsyc",
                     "repo": "solid-floating-ui",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": [
+                      "floating-ui",
+                      "solid-js"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -457,12 +680,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Handles \"click outside\" behavior for popup menu. Closing is triggered by click/focus outside of popup element or pressing \"Escape\" key.",
+                    "homepage": "https://aquaductape.github.io/solid-dismiss/",
                     "id": 397461408,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-24T03:22:31Z",
+                    "open_issues": 2,
                     "owner": "aquaductape",
                     "repo": "solid-dismiss",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -473,12 +701,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS bindings for Popper.js",
+                    "homepage": null,
                     "id": 404756883,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-06-12T12:23:53Z",
+                    "open_issues": 3,
                     "owner": "lxsmnsyc",
                     "repo": "solid-popper",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -489,12 +722,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS bindings for Tippy.js",
+                    "homepage": null,
                     "id": 427873587,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-17T09:36:06Z",
+                    "open_issues": 3,
                     "owner": "lxsmnsyc",
                     "repo": "solid-tippy",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -512,12 +750,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple and minimal split pane component for Solid",
+                    "homepage": null,
                     "id": 558159157,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-10-27T22:15:30Z",
+                    "open_issues": 0,
                     "owner": "bluskript",
                     "repo": "solid-split-pane",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -535,12 +778,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤹 Access thousands of icons as components on-demand universally.",
+                    "homepage": "https://www.npmjs.com/package/unplugin-icons",
                     "id": 324073430,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-14T10:52:48Z",
+                    "open_issues": 88,
                     "owner": "unplugin",
                     "repo": "unplugin-icons",
-                    "stars": 4934
+                    "stars": 4934,
+                    "topics": [
+                      "iconify",
+                      "icons",
+                      "jsx",
+                      "nuxt",
+                      "react",
+                      "unplugin",
+                      "vite",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -551,12 +809,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The simplest way to use icons in SolidJS",
+                    "homepage": "https://solid-icons.vercel.app",
                     "id": 387686045,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-03-12T23:16:02Z",
+                    "open_issues": 22,
                     "owner": "x64Bits",
                     "repo": "solid-icons",
-                    "stars": 350
+                    "stars": 350,
+                    "topics": [
+                      "brands",
+                      "design",
+                      "icon-pack",
+                      "icons",
+                      "iconset",
+                      "logo",
+                      "solidjs",
+                      "svg",
+                      "svg-files",
+                      "svg-icons"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -567,12 +841,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vite plugin to Import SVG files as Solid.js Components",
+                    "homepage": null,
                     "id": 393765273,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-03-26T02:17:21Z",
+                    "open_issues": 6,
                     "owner": "jfgodoy",
                     "repo": "vite-plugin-solid-svg",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -583,12 +862,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 287823728,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2024-03-14T14:52:30Z",
+                    "open_issues": 5,
                     "owner": "amoutonbrady",
                     "repo": "solid-heroicons",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -606,12 +890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A carousel/slider implementation for SolidJS. ",
+                    "homepage": null,
                     "id": 387058426,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T15:54:28Z",
+                    "open_issues": 0,
                     "owner": "davedbase",
                     "repo": "solid-slider",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -629,12 +918,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solid component for ApexCharts",
+                    "homepage": null,
                     "id": 458083550,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-08-19T05:27:59Z",
+                    "open_issues": 0,
                     "owner": "wobsoriano",
                     "repo": "solid-apexcharts",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "apexcharts",
+                      "charts",
+                      "solid"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -645,12 +943,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📈 SolidJs components for Chart.js",
+                    "homepage": "https://www.npmjs.com/package/solid-chartjs",
                     "id": 640399437,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-14T02:04:02Z",
+                    "open_issues": 4,
                     "owner": "s0ftik3",
                     "repo": "solid-chartjs",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "chartjs",
+                      "solid",
+                      "solidjs",
+                      "ui",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -668,12 +977,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS components for applying animations when children elements enter or leave the DOM.",
+                    "homepage": "https://solid-transition-group.netlify.app",
                     "id": 306806142,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-06-09T21:24:39Z",
+                    "open_issues": 18,
                     "owner": "solidjs-community",
                     "repo": "solid-transition-group",
-                    "stars": 299
+                    "stars": 299,
+                    "topics": [
+                      "animation",
+                      "css",
+                      "solidjs",
+                      "transition"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -684,12 +1003,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Like react-spring, but for SolidJS.",
+                    "homepage": null,
                     "id": 456502557,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-03-03T23:33:54Z",
+                    "open_issues": 7,
                     "owner": "solidjs-community",
                     "repo": "solid-spring",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": [
+                      "animation",
+                      "react-spring",
+                      "solidjs",
+                      "spring"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -700,12 +1029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 387847238,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-01-13T07:49:58Z",
+                    "open_issues": 1,
                     "owner": "otonashixav",
                     "repo": "solid-flip",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -716,12 +1050,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Solid.js tsParticles official component",
+                    "homepage": null,
                     "id": 564550708,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-15T12:27:28Z",
+                    "open_issues": 14,
                     "owner": "tsparticles",
                     "repo": "solid",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "hacktoberfest",
+                      "javascript",
+                      "solid",
+                      "tsparticles",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -739,12 +1084,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Solid JS Components Library for Mapbox & MapLibre 🌏",
+                    "homepage": "https://gis-hub.gitbook.io/solid-map-gl/",
                     "id": 442135769,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-27T15:22:55Z",
+                    "open_issues": 14,
                     "owner": "GIShub4",
                     "repo": "solid-map-gl",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "gis",
+                      "map",
+                      "mapbox",
+                      "mapbox-gl",
+                      "mapbox-gl-js",
+                      "maplibre",
+                      "maps",
+                      "solidjs",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -762,12 +1122,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Render Markdown as Solid components",
+                    "homepage": null,
                     "id": 415685622,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-11-29T10:39:57Z",
+                    "open_issues": 9,
                     "owner": "andi23rosca",
                     "repo": "solid-markdown",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": [
+                      "markdown",
+                      "rehype",
+                      "remark",
+                      "solid",
+                      "solid-js",
+                      "unified"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -778,12 +1150,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mdx for solid-js",
+                    "homepage": null,
                     "id": 441287908,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T11:57:23Z",
+                    "open_issues": 13,
                     "owner": "high1",
                     "repo": "solid-jsx",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -801,12 +1178,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "One Draggable to rule them all 💍",
+                    "homepage": "https://neodrag.dev",
                     "id": 387178718,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T10:53:37Z",
+                    "open_issues": 77,
                     "owner": "PuruVJ",
                     "repo": "neodrag",
-                    "stars": 2450
+                    "stars": 2450,
+                    "topics": [
+                      "draggable",
+                      "javascript",
+                      "svelte",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -817,12 +1204,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A directive based drag and drop container for solid-js",
+                    "homepage": null,
                     "id": 412336790,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2021-10-05T09:45:07Z",
+                    "open_issues": 6,
                     "owner": "isaacHagoel",
                     "repo": "solid-dnd-directive",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -833,12 +1225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bringing the power of dnd-kit to SolidJS applications. A modern, lightweight, performant, accessible and extensible drag & drop toolkit with the same great API and features.",
+                    "homepage": null,
                     "id": 963091218,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-23T05:56:21Z",
+                    "open_issues": 0,
                     "owner": "kachurun",
                     "repo": "dnd-kit-solid",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -856,12 +1253,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.",
+                    "homepage": "https://inokawa.github.io/virtua/",
                     "id": 549650165,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T18:22:50Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:08:38Z",
+                    "open_issues": 67,
                     "owner": "inokawa",
                     "repo": "virtua",
-                    "stars": 3728
+                    "stars": 3728,
+                    "topics": [
+                      "angular",
+                      "headlessui",
+                      "infinite-scroll",
+                      "performance",
+                      "react",
+                      "react-component",
+                      "scrolling",
+                      "solid",
+                      "svelte",
+                      "tabular-data",
+                      "virtual-list",
+                      "virtual-scroll",
+                      "virtualization",
+                      "virtualized",
+                      "vue",
+                      "windowing"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -872,12 +1291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Virtual list/grid for solid-js",
+                    "homepage": null,
                     "id": 382627417,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-05-15T12:59:51Z",
+                    "open_issues": 5,
                     "owner": "minht11",
                     "repo": "solid-virtual-container",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -895,12 +1319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 495928538,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-06-07T17:52:50Z",
+                    "open_issues": 0,
                     "owner": "dolsem",
                     "repo": "perfectly-scrollable",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -918,12 +1347,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Select component for Solid.",
+                    "homepage": "https://solid-select.com",
                     "id": 448133356,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-16T23:36:33Z",
+                    "open_issues": 20,
                     "owner": "thisbeyond",
                     "repo": "solid-select",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -934,12 +1368,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A multi-select implementation for Solid.",
+                    "homepage": null,
                     "id": 456564106,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-03-10T17:29:53Z",
+                    "open_issues": 2,
                     "owner": "nmrusso",
                     "repo": "solid-multiselect",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "innovation-labx",
+                      "solidjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -957,12 +1399,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A carousel/slider implementation for SolidJS. ",
+                    "homepage": null,
                     "id": 387058426,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T15:54:28Z",
+                    "open_issues": 0,
                     "owner": "davedbase",
                     "repo": "solid-slider",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -980,12 +1427,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS component to display an estimated reading time",
+                    "homepage": "https://solid-readotron.vercel.app/",
                     "id": 459681967,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-13T17:20:07Z",
+                    "open_issues": 0,
                     "owner": "untemps",
                     "repo": "solid-readotron",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "component",
+                      "javascript",
+                      "read-o-meter",
+                      "reading-rates",
+                      "reading-time",
+                      "reading-time-estimator",
+                      "solid",
+                      "solid-components",
+                      "solid-js",
+                      "solidjs",
+                      "speed-reading-time"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -1008,12 +1472,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible form library for Svelte, Solid and React",
+                "homepage": "https://felte.dev",
                 "id": 333547090,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-05T19:46:01Z",
+                "open_issues": 75,
                 "owner": "pablo-abc",
                 "repo": "felte",
-                "stars": 1086
+                "stars": 1086,
+                "topics": [
+                  "form",
+                  "form-validation",
+                  "forms",
+                  "javascript",
+                  "react",
+                  "solidjs",
+                  "svelte",
+                  "typescript",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1024,12 +1503,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FormGear is a framework engine for dynamic form creation and complex form processing and validation for data collection.",
+                "homepage": "https://solid-form-gear.vercel.app/",
                 "id": 478774148,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-04T05:40:02Z",
+                "open_issues": 7,
                 "owner": "bps-statistics",
                 "repo": "form-gear",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "census",
+                  "data",
+                  "data-collection",
+                  "form-builder",
+                  "form-engine",
+                  "form-generator",
+                  "national-statistics",
+                  "official-statistics",
+                  "survey",
+                  "survey-builder",
+                  "survey-form"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1040,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Solidjs library for working with forms. Demo: https://stackblitz.com/edit/vitejs-vite-mmmzfj?file=src/Example.tsx.",
+                "homepage": null,
                 "id": 498693824,
                 "language": "TypeScript",
+                "license": "Unlicense",
                 "last_commit": "2025-01-13T08:51:17Z",
+                "open_issues": 4,
                 "owner": "jorroll",
                 "repo": "solid-forms",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1056,12 +1557,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Forms library for SolidJS inspired by Angular's reactive forms.",
+                "homepage": null,
                 "id": 460996610,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-06-19T20:58:51Z",
+                "open_issues": 2,
                 "owner": "kajetansw",
                 "repo": "solar-forms",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "forms",
+                  "reactive",
+                  "solid",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1072,12 +1583,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A form management library for SolidJS that is very lightweight and simple!",
+                "homepage": "https://www.npmjs.com/package/solform",
                 "id": 440135357,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-08-08T15:06:17Z",
+                "open_issues": 1,
                 "owner": "ragokan",
                 "repo": "solform",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "form",
+                  "form-management",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1088,12 +1608,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple quiz component for solidjs and solid-start.",
+                "homepage": "https://www.npmjs.com/package/solid-quiz",
                 "id": 628391311,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-29T14:16:49Z",
+                "open_issues": 0,
                 "owner": "doldsimo",
                 "repo": "solid-quiz",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "quiz",
+                  "quiz-component",
+                  "solid-js-framework",
+                  "solid-start",
+                  "solidjs",
+                  "solidjs-library"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1106,12 +1638,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SolidJS port of `@lexical/react`. This port will be updated from time to time to maintain parity and keep dependencies fresh.",
+                    "homepage": "https://npmjs.com/package/lexical-solid",
                     "id": 473824263,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-04-18T14:05:07Z",
+                    "open_issues": 0,
                     "owner": "mosheduminer",
                     "repo": "lexical-solid",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": [
+                      "lexical",
+                      "solidjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -1122,12 +1662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 419431398,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-08T10:39:36Z",
+                    "open_issues": 2,
                     "owner": "andi23rosca",
                     "repo": "tiptap-solid",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -1138,12 +1683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Quill rich-text editor as a Solid component.",
+                    "homepage": null,
                     "id": 334438181,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2024-11-17T00:16:14Z",
+                    "open_issues": 0,
                     "owner": "amoutonbrady",
                     "repo": "solid-quill",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 },
@@ -1154,12 +1704,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 420599133,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2021-10-24T05:54:24Z",
+                    "open_issues": 1,
                     "owner": "poudels14",
                     "repo": "slate-solid",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
                 }
@@ -1182,12 +1737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A universal router for Solid inspired by Ember and React Router",
+                "homepage": null,
                 "id": 307253603,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:52:43Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:37:30Z",
+                "open_issues": 36,
                 "owner": "solidjs",
                 "repo": "solid-router",
-                "stars": 1317
+                "stars": 1317,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1198,12 +1758,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny routing library for SolidJS",
+                "homepage": null,
                 "id": 424805299,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-27T02:03:55Z",
+                "open_issues": 0,
                 "owner": "lxsmnsyc",
                 "repo": "solid-tiny-router",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "router",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1214,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Router for solid-js using router5 and lots of typescript magic",
+                "homepage": "https://mikeplus64.github.io/solid-typefu-router5/",
                 "id": 281308766,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-14T01:56:40Z",
+                "open_issues": 0,
                 "owner": "mikeplus64",
                 "repo": "solid-typefu-router5",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1237,12 +1810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write meta tags to the document head",
+                "homepage": null,
                 "id": 371885022,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-12T23:18:03Z",
+                "open_issues": 31,
                 "owner": "solidjs",
                 "repo": "solid-meta",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1260,12 +1838,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.",
+                "homepage": "https://github.com/ivanhofer/typesafe-i18n",
                 "id": 324985811,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-22T20:28:52Z",
+                "open_issues": 41,
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
-                "stars": 2475
+                "stars": 2475,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "i18n",
+                  "internationalization",
+                  "javascript",
+                  "lightweight",
+                  "localization",
+                  "nodejs",
+                  "react",
+                  "solid",
+                  "svelte",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1276,12 +1873,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of high-quality primitives that extend Solid reactivity.",
+                "homepage": "https://primitives.solidjs.community",
                 "id": 369884446,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T16:14:42Z",
+                "open_issues": 48,
                 "owner": "solidjs-community",
                 "repo": "solid-primitives",
-                "stars": 1553
+                "stars": 1553,
+                "topics": [
+                  "solidjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1292,12 +1897,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An out-of-the-box, lightweight i18n auto-translation solution for Solid",
+                "homepage": null,
                 "id": 600417630,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-06T10:33:26Z",
+                "open_issues": 0,
                 "owner": "i18n-pro",
                 "repo": "solid",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "auto-translation",
+                  "automatic-translation",
+                  "i18n",
+                  "i18n-pro",
+                  "machine-translation",
+                  "solid",
+                  "solid-i18n",
+                  "translator"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1315,12 +1934,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Business logic with ease ☄️",
+                "homepage": "https://effector.dev",
                 "id": 123197392,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T00:21:18Z",
+                "open_issues": 159,
                 "owner": "effector",
                 "repo": "effector",
-                "stars": 4849
+                "stars": 4849,
+                "topics": [
+                  "business-logic",
+                  "effector",
+                  "event-driven",
+                  "reactive",
+                  "state",
+                  "state-management",
+                  "state-manager"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1331,12 +1963,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐻 State management in Solid using zustand.",
+                "homepage": "https://stackblitz.com/edit/vitejs-vite-tcofpc?file=src/App.tsx",
                 "id": 383510143,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-10T03:24:03Z",
+                "open_issues": 1,
                 "owner": "wobsoriano",
                 "repo": "solid-zustand",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "solid",
+                  "state-management",
+                  "zustand"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1347,12 +1988,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solid.js library adding a services layer for global shared state.",
+                "homepage": null,
                 "id": 445865183,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-15T10:06:47Z",
+                "open_issues": 0,
                 "owner": "Exelord",
                 "repo": "solid-services",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "dependency-injection",
+                  "javascript",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1363,12 +2013,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Global state management in Solid using nanostores.",
+                "homepage": null,
                 "id": 395673009,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T02:56:51Z",
+                "open_issues": 2,
                 "owner": "nanostores",
                 "repo": "solid",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "nanostores",
+                  "solid",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1379,12 +2038,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Primitive and flexible state management for Solid based on Jotai.",
+                "homepage": null,
                 "id": 575101587,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-15T22:03:01Z",
+                "open_issues": 1,
                 "owner": "jotaijs",
                 "repo": "solid-jotai",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "jotai",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1395,12 +2062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GStatem is a small, simple and fast state-management tool.",
+                "homepage": null,
                 "id": 445826899,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-08T13:57:12Z",
+                "open_issues": 0,
                 "owner": "gstatem",
                 "repo": "gstatem",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1418,12 +2090,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+                "homepage": "https://solidjs.com",
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:01:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:27:41Z",
+                "open_issues": 30,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35934
+                "stars": 35935,
+                "topics": [
+                  "declarative",
+                  "fine-grained",
+                  "javascript",
+                  "jsx",
+                  "performance",
+                  "proxies",
+                  "reactive",
+                  "solid"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1434,12 +2120,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and simple custom elements.",
+                "homepage": "https://docs.lume.io",
                 "id": 241555187,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T00:34:08Z",
+                "open_issues": 32,
                 "owner": "lume",
                 "repo": "element",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "3d",
+                  "3d-graphics",
+                  "css",
+                  "custom-elements",
+                  "html",
+                  "html-elements",
+                  "javascript",
+                  "jsx",
+                  "lume",
+                  "shadow-dom",
+                  "solid",
+                  "threejs",
+                  "tsx",
+                  "typescript",
+                  "web-components",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1457,12 +2165,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of Material-UI (MUI) built with SolidJS.",
+                "homepage": "https://suid.dev",
                 "id": 472076298,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-05T09:52:12Z",
+                "open_issues": 50,
                 "owner": "swordev",
                 "repo": "suid",
-                "stars": 748
+                "stars": 748,
+                "topics": [
+                  "components",
+                  "material",
+                  "mui",
+                  "solidjs",
+                  "typescript",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1473,12 +2193,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless UI for SolidJS",
+                "homepage": null,
                 "id": 397940426,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T17:34:45Z",
+                "open_issues": 15,
                 "owner": "lxsmnsyc",
                 "repo": "terracotta",
-                "stars": 702
+                "stars": 702,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "headless-ui",
+                  "solid-js",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1489,12 +2220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of high-quality primitives that help you build accessible user interfaces with SolidJS.",
+                "homepage": null,
                 "id": 484079544,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-07T01:41:14Z",
+                "open_issues": 18,
                 "owner": "solidjs-community",
                 "repo": "solid-aria",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1505,12 +2241,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of SolidJS primitives to build code editors using CodeMirror 6 @codemirror ",
+                "homepage": "https://www.npmx.dev/package/solid-codemirror",
                 "id": 455813384,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-12T18:31:34Z",
+                "open_issues": 1,
                 "owner": "riccardoperra",
                 "repo": "solid-codemirror",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "codemirror",
+                  "editor",
+                  "ide",
+                  "primitives",
+                  "solid",
+                  "solid-codemirror",
+                  "solidjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1521,12 +2271,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RevKit UI for SolidJS",
+                "homepage": "https://solid-rev-kit-docs.vercel.app/",
                 "id": 450550034,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-10-23T01:46:23Z",
+                "open_issues": 2,
                 "owner": "specialdoom",
                 "repo": "solid-rev-kit",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "components",
+                  "solidjs",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1537,12 +2296,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Primitives for building user-friendly controls with SolidJS.",
+                "homepage": "https://tahti-studio.github.io/solid-knobs",
                 "id": 499788503,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-04T21:12:48Z",
+                "open_issues": 2,
                 "owner": "tahti-studio",
                 "repo": "solid-knobs",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "audio",
+                  "solidjs",
+                  "user-interface"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1553,12 +2321,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Solid-js high quality components built with tailwindcss and kobalte following material you guidelines",
+                "homepage": "https://solid-material.dev",
                 "id": 593858756,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-25T15:31:56Z",
+                "open_issues": 2,
                 "owner": "ceopaludetto",
                 "repo": "solid-material",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "class-variance-authority",
+                  "kobalte",
+                  "material-design",
+                  "reactivity",
+                  "solid-js",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1569,12 +2349,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeMirror 6 component for SolidJS",
+                "homepage": "https://solid-codemirror.vercel.app/",
                 "id": 508111363,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-09-20T08:52:00Z",
+                "open_issues": 2,
                 "owner": "nimeshnayaju",
                 "repo": "solid-codemirror",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "codemirror",
+                  "codemirror6",
+                  "editor",
+                  "solid",
+                  "solid-codemirror",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1592,12 +2384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Solid.js SPA library for the Microsoft Identity Platform implemented as a wrapper around @azure/msal-browser.",
+                "homepage": null,
                 "id": 607782907,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-29T03:39:23Z",
+                "open_issues": 1,
                 "owner": "saraelsa",
                 "repo": "msal-community-solid",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1615,12 +2412,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of SolidJS utilities",
+                "homepage": null,
                 "id": 396626909,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-17T07:22:14Z",
+                "open_issues": 1,
                 "owner": "lxsmnsyc",
                 "repo": "solid-use",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "reactivity",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1631,12 +2436,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use immer with Solid.js",
+                "homepage": null,
                 "id": 469123038,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-03-12T17:22:28Z",
+                "open_issues": 1,
                 "owner": "myWsq",
                 "repo": "solid-immer",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "immer",
+                  "solidjs",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1647,12 +2461,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solid.js library adding signaling to built-in non-primitives",
+                "homepage": null,
                 "id": 461458947,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T20:41:04Z",
+                "open_issues": 0,
                 "owner": "Exelord",
                 "repo": "solid-proxies",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "javascript",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1663,12 +2485,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-quality & reliable Solid Hooks library.",
+                "homepage": "https://solid-hooks.netlify.app",
                 "id": 706243719,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-04T16:31:24Z",
+                "open_issues": 0,
                 "owner": "any-hooks",
                 "repo": "solid-hooks",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "hooks",
+                  "primitives",
+                  "solid-js",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1679,12 +2511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "solidjs  request",
+                "homepage": null,
                 "id": 616380362,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-05-16T02:28:07Z",
+                "open_issues": 0,
                 "owner": "NelsonYong",
                 "repo": "solid-request",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1695,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of high-quality primitives that extend SolidJS reactivity.",
+                "homepage": "https://primitives.solidjs.community",
                 "id": 1163436888,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T01:33:25Z",
+                "open_issues": 0,
                 "owner": "davedbase",
                 "repo": "solid-primitives",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1718,12 +2560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Urql support for Solid JS projects.",
+                "homepage": "https://www.npmjs.com/package/solid-urql",
                 "id": 382822773,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-31T12:57:22Z",
+                "open_issues": 9,
                 "owner": "tqwewe",
                 "repo": "solid-urql",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1734,12 +2581,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent-native runtime where a typed, declarative stitch replaces fetch — for humans and agents alike.",
+                "homepage": "https://stitchapi.dev",
                 "id": 843446123,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:24:54Z",
+                "open_issues": 80,
                 "owner": "rejifald",
                 "repo": "StitchAPI",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "api",
+                  "mcp",
+                  "mcp-server",
+                  "npm-package",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1757,12 +2615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and complete Solid testing utilities that encourage good testing practices.",
+                "homepage": null,
                 "id": 339000240,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-28T11:46:53Z",
+                "open_issues": 12,
                 "owner": "solidjs",
                 "repo": "solid-testing-library",
-                "stars": 226
+                "stars": 226,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1773,12 +2636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jest preset for SolidJS",
+                "homepage": null,
                 "id": 345030036,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-19T14:27:16Z",
+                "open_issues": 5,
                 "owner": "solidjs",
                 "repo": "solid-jest",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1789,12 +2657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419481397,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-07T19:04:59Z",
+                "open_issues": 1,
                 "owner": "atk",
                 "repo": "solid-register",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1812,12 +2685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.locatorjs.com",
                 "id": 432777348,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-24T06:16:54Z",
+                "open_issues": 97,
                 "owner": "infi-pc",
                 "repo": "locatorjs",
-                "stars": 1822
+                "stars": 1822,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1828,12 +2706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solid-specific linting rules for ESLint.",
+                "homepage": null,
                 "id": 383257021,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:01:39Z",
+                "open_issues": 11,
                 "owner": "solidjs-community",
                 "repo": "eslint-plugin-solid",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1844,12 +2727,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, reactive labels for SolidJS",
+                "homepage": null,
                 "id": 407243045,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:37:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:41:57Z",
+                "open_issues": 4,
                 "owner": "lxsmnsyc",
                 "repo": "solid-labels",
-                "stars": 255
+                "stars": 256,
+                "topics": [
+                  "babel-plugin",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1860,12 +2751,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Babel plugin for SolidJS that allows you to destructure component props without losing reactivity.",
+                "homepage": null,
                 "id": 401382055,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-07-14T23:11:44Z",
+                "open_issues": 8,
                 "owner": "orenelbaum",
                 "repo": "babel-plugin-solid-undestructure",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "babel",
+                  "babel-plugin",
+                  "destructure",
+                  "solid-js",
+                  "undestructure"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1876,12 +2778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 340609080,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-17T06:09:55Z",
+                "open_issues": 17,
                 "owner": "solidjs",
                 "repo": "solid-refresh",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1892,12 +2799,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write CSS modules without leaving your javascript!",
+                "homepage": null,
                 "id": 488274939,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-16T00:01:13Z",
+                "open_issues": 2,
                 "owner": "bluskript",
                 "repo": "vite-plugin-inline-css-modules",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "postcss",
+                  "solidjs",
+                  "vite",
+                  "vite-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1908,12 +2825,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The `esbuild-plugin-solid` is a plugin for ESBuild that provides integration with SolidJS. It allows you to use ESBuild to bundle Solid applications, handling the specific requirements of Solid during the build process.",
+                "homepage": null,
                 "id": 325884480,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-02-10T20:30:16Z",
+                "open_issues": 4,
                 "owner": "amoutonbrady",
                 "repo": "esbuild-plugin-solid",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "esbuild",
+                  "plugin",
+                  "solid-js",
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1924,12 +2851,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small opinionated preset for rollup to bundle your solid libraries with rollup.",
+                "homepage": null,
                 "id": 347483914,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-10T21:17:33Z",
+                "open_issues": 2,
                 "owner": "solidjs-community",
                 "repo": "rollup-preset-solid",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "preset",
+                  "rollup",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1940,12 +2876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental SFC compiler for SolidJS",
+                "homepage": null,
                 "id": 430674145,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-25T16:43:51Z",
+                "open_issues": 1,
                 "owner": "lxsmnsyc",
                 "repo": "solid-sfc",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -1963,12 +2904,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive stylesheets for SolidJS",
+                "homepage": null,
                 "id": 448813253,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-21T05:22:09Z",
+                "open_issues": 8,
                 "owner": "lxsmnsyc",
                 "repo": "solid-styled",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "scoped-css",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -1979,12 +2930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental tool inspired by Capsize, implemented in Solid JS. Generates x-height and cap-height CSS",
+                "homepage": "https://discrete-typography.netlify.app",
                 "id": 510552635,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-07-05T10:09:54Z",
+                "open_issues": 0,
                 "owner": "zaydek",
                 "repo": "discrete-typography",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -2002,12 +2958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dexie integration for Solid",
+                "homepage": null,
                 "id": 511211911,
                 "language": "TypeScript",
+                "license": "Unlicense",
                 "last_commit": "2025-10-13T14:29:45Z",
+                "open_issues": 2,
                 "owner": "faassen",
                 "repo": "solid-dexie",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2018,12 +2979,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resource caching in SolidJS",
+                "homepage": null,
                 "id": 509902748,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-14T02:59:13Z",
+                "open_issues": 1,
                 "owner": "lxsmnsyc",
                 "repo": "solid-cache",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cache",
+                  "fetch",
+                  "solid-js",
+                  "suspense"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -2041,12 +3012,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SolidStart, the Solid app framework",
+                "homepage": "https://docs.solidjs.com/solid-start/v2/",
                 "id": 352861350,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T22:30:00Z",
+                "open_issues": 32,
                 "owner": "solidjs",
                 "repo": "solid-start",
-                "stars": 5916
+                "stars": 5916,
+                "topics": [
+                  "file-system-routing",
+                  "fine-grained-reactivity",
+                  "meta-framework",
+                  "sdk",
+                  "signals",
+                  "solid-js",
+                  "solidjs",
+                  "solidstart",
+                  "spa",
+                  "ssr"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2057,12 +3044,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The quickest and most efficient way to start new full stack, type safed Solid web app",
+                "homepage": null,
                 "id": 528208451,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-03-21T16:31:08Z",
+                "open_issues": 0,
                 "owner": "OrJDev",
                 "repo": "create-jd-app",
-                "stars": 668
+                "stars": 668,
+                "topics": [
+                  "jdev",
+                  "solidstart",
+                  "t3",
+                  "tailwindcss",
+                  "trpc",
+                  "typescript",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2073,12 +3073,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plug-and-Play SSR for SolidJS",
+                "homepage": null,
                 "id": 449085693,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-24T07:52:24Z",
+                "open_issues": 0,
                 "owner": "Perivel",
                 "repo": "solid-pod",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "solidjs"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -2096,12 +3103,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. ",
+                "homepage": "https://mitosis.builder.io",
                 "id": 310456670,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T14:38:54Z",
+                "open_issues": 176,
                 "owner": "BuilderIO",
                 "repo": "mitosis",
-                "stars": 13903
+                "stars": 13903,
+                "topics": [
+                  "angular",
+                  "builder",
+                  "compiler",
+                  "declarative",
+                  "figma",
+                  "jsx",
+                  "jsx-lite",
+                  "liquid",
+                  "no-code",
+                  "react",
+                  "shopify",
+                  "solid",
+                  "solidjs",
+                  "svelte",
+                  "visual",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2112,12 +3141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Next.js/Nuxt but as do-one-thing-do-it-well Vite plugin.",
+                "homepage": "https://vite-plugin-ssr.com",
                 "id": 695274920,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-08T22:00:58Z",
+                "open_issues": 0,
                 "owner": "brillout",
                 "repo": "vite-plugin-ssr",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -2135,12 +3169,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI Library for Command Palette in SolidJS webapps",
+                "homepage": "https://solid-command-palette.vercel.app/",
                 "id": 450847216,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-28T15:04:22Z",
+                "open_issues": 13,
                 "owner": "itaditya",
                 "repo": "solid-command-palette",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "command-palette",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2151,12 +3193,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solid primitives for Firebase v9.",
+                "homepage": null,
                 "id": 456372793,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-07T01:42:53Z",
+                "open_issues": 1,
                 "owner": "wobsoriano",
                 "repo": "solid-firebase",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "firebase",
+                  "solid",
+                  "solid-js"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2167,12 +3218,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReactJS to SolidJS Converter aka Transpiler",
+                "homepage": "https://rrjanbiah.github.io/react2solid/",
                 "id": 477003626,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-12T00:52:40Z",
+                "open_issues": 2,
                 "owner": "rrjanbiah",
                 "repo": "react2solid",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "babel",
+                  "babeljs",
+                  "code-converter",
+                  "converter",
+                  "react",
+                  "reactjs",
+                  "solidjs",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2183,12 +3248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unstyled emoji picker for SolidJS",
+                "homepage": null,
                 "id": 433899866,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-16T05:23:29Z",
+                "open_issues": 1,
                 "owner": "lxsmnsyc",
                 "repo": "solid-emoji-picker",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             },
@@ -2199,12 +3269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SolidJS bindings for GIPHY Web SDK",
+                "homepage": null,
                 "id": 419567859,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-01-25T03:10:34Z",
+                "open_issues": 0,
                 "owner": "lxsmnsyc",
                 "repo": "solid-giphy",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
             }
@@ -2218,15 +3293,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:12:10.187Z",
+    "last_updated": "2026-08-29T04:36:28.379Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated resources on building sites with SolidJS, a brand new way(now 1.0) to build Javascript based interactive web applications. A very close looking cousin to React/JSX by syntax, and to Svelte by few important principles(compiler and fine-grained reactivity), it's a highly optimised way to deliver web applications with best-in-class performance. ",
+      "homepage": null,
       "id": 385551716,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-29T19:02:50Z",
+      "open_issues": 11,
       "owner": "one-aalam",
       "repo": "awesome-solid-js",
-      "stars": 1002
+      "stars": 1002,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "frontend",
+        "javascript",
+        "jsx",
+        "list",
+        "reactive",
+        "resources",
+        "solid"
+      ]
     },
     "original_repository_sha": "48140bdc0e2d194f0251bfc375681605f93c9d2f",
     "enhanced_repository": "enhansome/enhansome-solid-js",
