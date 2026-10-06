@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02
+## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,391 | 🐛 106 | 📅 2026-09-02
 
 > A curated list of awesome things related to SolidJS
 
@@ -41,8 +41,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,101 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-06
-* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,101 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-06
+* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,101 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-06
+* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,101 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-06
 * [Playground](https://github.com/solidjs/solid-playground) ⭐ 245 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-04
 * [Official Guide](https://www.solidjs.com/guide)
 * [Official Tutorial](https://www.solidjs.com/tutorial)
@@ -355,7 +355,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Web Components
 
-* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,101 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-06 - Library for authoring web components with SolidJS.
+* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,101 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-06 - Library for authoring web components with SolidJS.
 * [Lume Element](https://github.com/lume/element) ⭐ 187 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Fast and simple custom elements
 
 ### Frameworks & Component Libraries
