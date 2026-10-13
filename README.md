@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,932 | 🐛 105 | 📅 2026-09-02
+## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,413 | 🐛 105 | 📅 2026-09-02
 
 > A curated list of awesome things related to SolidJS
 
@@ -41,8 +41,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,122 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-12
-* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,122 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-12
+* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,125 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-13
+* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,125 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-13
 * [Playground](https://github.com/solidjs/solid-playground) ⭐ 245 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-04
 * [Official Guide](https://www.solidjs.com/guide)
 * [Official Tutorial](https://www.solidjs.com/tutorial)
@@ -173,7 +173,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Open Source
 
-* [Codeimage.dev](https://github.com/riccardoperra/codeimage) ⭐ 2,091 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-28 - Create elegant screenshots of your source code. Built with SolidJS
+* [Codeimage.dev](https://github.com/riccardoperra/codeimage) ⭐ 2,092 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-28 - Create elegant screenshots of your source code. Built with SolidJS
 * [Tura](https://github.com/Tura-AI/tura) ⭐ 654 | 🐛 4 | 🌐 Rust | 📅 2026-10-07 - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS.
   *more coming soon...*
 * [Bloki.app](https://github.com/MrFoxPro/bloki) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-14 - Blocks-based collaborative editor
@@ -225,7 +225,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Icons
 
-* [Unplugin Icons](https://github.com/antfu/unplugin-icons) ⭐ 4,950 | 🐛 87 | 🌐 TypeScript | 📅 2026-09-11 ([NPM](https://www.npmjs.com/package/unplugin-icons))
+* [Unplugin Icons](https://github.com/antfu/unplugin-icons) ⭐ 4,951 | 🐛 87 | 🌐 TypeScript | 📅 2026-09-11 ([NPM](https://www.npmjs.com/package/unplugin-icons))
 * [Solid Icons](https://github.com/x64Bits/solid-icons) ⭐ 352 | 🐛 23 | 🌐 TypeScript | 📅 2026-03-12 ([NPM](https://www.npmjs.com/package/solid-icons))
 * [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) ⭐ 93 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-26 ([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
 * [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons) ⭐ 82 | 🐛 5 | 🌐 TypeScript | 📅 2024-03-14 ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
@@ -239,7 +239,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Charts
 
-* [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts) ⭐ 75 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-19
+* [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts) ⭐ 76 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-19
 * [Solid Chart.js](https://github.com/s0ftik3/solid-chartjs) ⭐ 62 | 🐛 4 | 🌐 TypeScript | 📅 2024-07-14 ([NPM](https://www.npmjs.com/package/solid-chartjs))
 
 #### Animation
@@ -255,7 +255,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Map
 
-* [Solid MapGL](https://github.com/GIShub4/solid-map-gl) ⭐ 136 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11
+* [Solid MapGL](https://github.com/GIShub4/solid-map-gl) ⭐ 136 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13
 
 <!-- #### Audio / Video -->
 
@@ -281,7 +281,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### List
 
-* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,751 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-12 ([NPM](https://www.npmjs.com/package/virtua))
+* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,751 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-13 ([NPM](https://www.npmjs.com/package/virtua))
 * [Solid Virtual Container](https://github.com/minht11/solid-virtual-container) ⭐ 87 | 🐛 5 | 🌐 TypeScript | 📅 2022-05-15 ([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 * [TanStack Virtual](https://tanstack.com/virtual/v3) ([NPM](https://www.npmjs.com/package/@tanstack/solid-virtual))
 
@@ -330,7 +330,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Routing
 
-* [Solid App Router](https://github.com/solidjs/solid-app-router) ⭐ 1,319 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-09(official)
+* [Solid App Router](https://github.com/solidjs/solid-app-router) ⭐ 1,319 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-09(official)
 * [Solid Tiny Router](https://github.com/LXSMNSYC/solid-tiny-router) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2022-05-27 - Tiny routing library for SolidJS
 * [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2023-01-14
 
@@ -341,13 +341,13 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Internationalisation
 
 * [Typesafe i18n](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid) ⭐ 2,479 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - SolidJS adapter for [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,479 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22
-* [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) ⭐ 1,559 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-09 - Library of internationalisation primitives.
+* [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) ⭐ 1,559 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-09 - Library of internationalisation primitives.
 * [i18n-pro/solid](https://github.com/i18n-pro/solid) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-06 - Lightweight, simple, flexible, automatic translation internationalization tool for Solid
 
 ### State Management
 
-* [Effector](https://github.com/effector/effector/tree/master/packages/effector-solid) ⭐ 4,853 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-12
-* [Solid Zustand](https://github.com/wobsoriano/solid-zustand) ⭐ 153 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-10
+* [Effector](https://github.com/effector/effector/tree/master/packages/effector-solid) ⭐ 4,852 | 🐛 165 | 🌐 TypeScript | 📅 2026-09-12
+* [Solid Zustand](https://github.com/wobsoriano/solid-zustand) ⭐ 152 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-10
 * [Solid Services](https://github.com/exelord/solid-services) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28
 * [Solid Nanostores](https://github.com/nanostores/solid) ⭐ 81 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14
 * [Solid Jotai](https://github.com/wobsoriano/solid-jotai) ⭐ 37 | 🐛 1 | 🌐 TypeScript | 📅 2025-03-15
@@ -355,7 +355,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Web Components
 
-* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,122 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-12 - Library for authoring web components with SolidJS.
+* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,125 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-13 - Library for authoring web components with SolidJS.
 * [Lume Element](https://github.com/lume/element) ⭐ 187 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Fast and simple custom elements
 
 ### Frameworks & Component Libraries
@@ -432,7 +432,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ### SSR
 
-* [Solid Start](https://github.com/solidjs/solid-start) ⭐ 5,922 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-07 - Official meta framework for SolidJS
+* [Solid Start](https://github.com/solidjs/solid-start) ⭐ 5,922 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-13 - Official meta framework for SolidJS
 * [create-jd-app](https://github.com/OrJDev/create-jd-app) ⭐ 669 | 🐛 0 | 🌐 TypeScript | 📅 2025-03-21 - The quickest and most efficient way to start new full stack, type safed Solid web app
 * [Solidus JS](https://github.com/Perivel/solidus-js) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2023-02-24 - Plug-and-Play SSR for SolidJS (In Development)
 
@@ -455,4 +455,4 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
