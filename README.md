@@ -7,7 +7,7 @@
   <br>
 </p>
 
-## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,813 | 🐛 103 | 📅 2026-09-02
+## Awesome Solid.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,529 | 🐛 103 | 📅 2026-09-02
 
 > A curated list of awesome things related to SolidJS
 
@@ -41,8 +41,8 @@
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,337 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-07
-* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,337 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-07
+* [GitHub Repo](https://github.com/solidjs/solid) ⭐ 36,345 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-08
+* [Release Notes](https://github.com/solidjs/solid/releases) ⭐ 36,345 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-08
 * [Playground](https://github.com/solidjs/solid-playground) ⭐ 246 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-28
 * [Official Guide](https://www.solidjs.com/guide)
 * [Official Tutorial](https://www.solidjs.com/tutorial)
@@ -225,7 +225,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Icons
 
-* [Unplugin Icons](https://github.com/antfu/unplugin-icons) ⭐ 4,955 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11 ([NPM](https://www.npmjs.com/package/unplugin-icons))
+* [Unplugin Icons](https://github.com/antfu/unplugin-icons) ⭐ 4,956 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11 ([NPM](https://www.npmjs.com/package/unplugin-icons))
 * [Solid Icons](https://github.com/x64Bits/solid-icons) ⭐ 353 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-03 ([NPM](https://www.npmjs.com/package/solid-icons))
 * [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) ⭐ 93 | 🐛 6 | 🌐 TypeScript | 📅 2024-03-26 ([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
 * [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons) ⭐ 82 | 🐛 5 | 🌐 TypeScript | 📅 2024-03-14 ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
@@ -266,7 +266,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Drag and Drop
 
-* [Neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,453 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-10 ([NPM](https://www.npmjs.com/package/@neodrag/solid))
+* [Neodrag](https://github.com/PuruVJ/neodrag) ⭐ 2,454 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-10 ([NPM](https://www.npmjs.com/package/@neodrag/solid))
 * [Solid DND Directive](https://github.com/isaacHagoel/solid-dnd-directive) ⭐ 86 | 🐛 6 | 🌐 TypeScript | 📅 2021-10-05
 * [dnd kit](https://github.com/kachurun/dnd-kit-solid) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-23 - SolidJS adapter for [dnd kit](https://next.dndkit.com/)
 * [Solid DnD](https://solid-dnd.com/)
@@ -281,7 +281,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### List
 
-* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,763 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-06 ([NPM](https://www.npmjs.com/package/virtua))
+* [Virtua](https://github.com/inokawa/virtua) ⭐ 3,763 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-07 ([NPM](https://www.npmjs.com/package/virtua))
 * [Solid Virtual Container](https://github.com/minht11/solid-virtual-container) ⭐ 87 | 🐛 5 | 🌐 TypeScript | 📅 2022-05-15 ([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 * [TanStack Virtual](https://tanstack.com/virtual/v3) ([NPM](https://www.npmjs.com/package/@tanstack/solid-virtual))
 
@@ -340,8 +340,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Internationalisation
 
-* [Typesafe i18n](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid) ⭐ 2,478 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - SolidJS adapter for [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,478 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22
-* [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) ⭐ 1,564 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-06 - Library of internationalisation primitives.
+* [Typesafe i18n](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid) ⭐ 2,477 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - SolidJS adapter for [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,477 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22
+* [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) ⭐ 1,564 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-07 - Library of internationalisation primitives.
 * [i18n-pro/solid](https://github.com/i18n-pro/solid) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-06 - Lightweight, simple, flexible, automatic translation internationalization tool for Solid
 
 ### State Management
@@ -355,7 +355,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Web Components
 
-* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,337 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-07 - Library for authoring web components with SolidJS.
+* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,345 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-08 - Library for authoring web components with SolidJS.
 * [Lume Element](https://github.com/lume/element) ⭐ 188 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Fast and simple custom elements
 
 ### Frameworks & Component Libraries
@@ -392,7 +392,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 * [Solid Proxies](https://github.com/Exelord/solid-proxies) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-16 - Solid.js library adding signaling to built-in non-primitives
 * [Solid Hooks](https://github.com/any-hooks/solid-hooks) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-04 - A high-quality & reliable Solid Hooks library.
 * [Solid Request](https://github.com/NelsonYong/solid-request) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2023-05-16
-* [Solid Primitives](https://github.com/davedbase/solid-primitives) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06
+* [Solid Primitives](https://github.com/davedbase/solid-primitives) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07
 * [Solid Signals](https://www.npmjs.com/package/solid-signals)
 
 ### Querying/GraphQL
@@ -409,19 +409,19 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ### DX
 
-* [LocatorJS](https://github.com/infi-pc/locatorjs) ⭐ 1,830 | 🐛 99 | 🌐 TypeScript | 📅 2026-11-01 - Click on any component to go to it's code. (it's also built with SolidJS)
-* [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) ⭐ 268 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-07 - Solid-specific linting rules for ESLint
-* [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) ⭐ 256 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - Simple, reactive labels for SolidJS
+* [LocatorJS](https://github.com/infi-pc/locatorjs) ⭐ 1,829 | 🐛 99 | 🌐 TypeScript | 📅 2026-11-01 - Click on any component to go to it's code. (it's also built with SolidJS)
+* [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) ⭐ 268 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08 - Solid-specific linting rules for ESLint
+* [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) ⭐ 256 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-08 - Simple, reactive labels for SolidJS
 * [Babel Solid Plugin - Undestructure](https://github.com/orenelbaum/babel-plugin-solid-undestructure) ⭐ 102 | 🐛 8 | 🌐 JavaScript | 📅 2024-07-14 - Destructure component props without losing reactivity
 * [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh) ⭐ 99 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-17(official) - HMR for Solid for various bundlers
 * [vite-plugin-inline-css-modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) ⭐ 76 | 🐛 2 | 🌐 TypeScript | 📅 2024-04-16 - Zero runtime plugin to write CSS modules inside of component files
 * [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) ⭐ 66 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-10 ([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
 * [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2025-02-10 - Preset for rollup to bundle your solid libraries with rollup
-* [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-19 - Experimental SFC compiler for SolidJS
+* [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) ⭐ 26 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-08 - Experimental SFC compiler for SolidJS
 
 ### Styling
 
-* [Solid Styled](https://github.com/LXSMNSYC/solid-styled) ⭐ 194 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-30 - Reactive stylesheets for SolidJS
+* [Solid Styled](https://github.com/LXSMNSYC/solid-styled) ⭐ 194 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 - Reactive stylesheets for SolidJS
 * [Discrete Typography](https://github.com/zaydek/discrete-typography) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-05 - Experimental tool inspired by Capsize, implemented in Solid JS. Generates x-height and cap-height CSS
 
 ### Storage
@@ -438,7 +438,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ### Works with Solid
 
-* [Mitosis](https://github.com/BuilderIO/mitosis) ⭐ 14,458 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-28([playground](https://mitosis.builder.io/?outputTab=solid))
+* [Mitosis](https://github.com/BuilderIO/mitosis) ⭐ 14,459 | 🐛 177 | 🌐 TypeScript | 📅 2026-10-28([playground](https://mitosis.builder.io/?outputTab=solid))
 * [Vite Plugin - SSR](https://vite-plugin-ssr.com/)([Solid Example](https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-08)
 * [Astro](https://astro.build/)
 
@@ -455,4 +455,4 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
