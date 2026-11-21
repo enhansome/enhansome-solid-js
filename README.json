@@ -17,11 +17,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T10:06:20Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-21T11:16:07Z",
+                "open_issues": 34,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36862,
+                "stars": 36890,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -47,11 +47,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T10:06:20Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-21T11:16:07Z",
+                "open_issues": 34,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36862,
+                "stars": 36890,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -437,7 +437,7 @@
                 "open_issues": 4,
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 668,
+                "stars": 670,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -529,8 +529,8 @@
             "id": 922104035,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T13:52:29Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-20T21:04:03Z",
+            "open_issues": 18,
             "owner": "yamcodes",
             "repo": "arkenv",
             "stars": 151,
@@ -789,7 +789,7 @@
                     "open_issues": 88,
                     "owner": "unplugin",
                     "repo": "unplugin-icons",
-                    "stars": 4963,
+                    "stars": 4964,
                     "topics": [
                       "iconify",
                       "icons",
@@ -820,7 +820,7 @@
                     "open_issues": 23,
                     "owner": "x64Bits",
                     "repo": "solid-icons",
-                    "stars": 354,
+                    "stars": 355,
                     "topics": [
                       "brands",
                       "design",
@@ -984,8 +984,8 @@
                     "id": 306806142,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2025-06-09T21:24:39Z",
-                    "open_issues": 18,
+                    "last_commit": "2026-11-20T17:19:31Z",
+                    "open_issues": 19,
                     "owner": "solidjs-community",
                     "repo": "solid-transition-group",
                     "stars": 299,
@@ -1236,7 +1236,7 @@
                     "open_issues": 0,
                     "owner": "kachurun",
                     "repo": "dnd-kit-solid",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
@@ -1264,7 +1264,7 @@
                     "open_issues": 45,
                     "owner": "inokawa",
                     "repo": "virtua",
-                    "stars": 3767,
+                    "stars": 3769,
                     "topics": [
                       "angular",
                       "datagrid",
@@ -1748,7 +1748,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T03:03:01Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "solidjs",
                 "repo": "solid-router",
                 "stars": 1324,
@@ -2100,11 +2100,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T10:06:20Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-21T11:16:07Z",
+                "open_issues": 34,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36862,
+                "stars": 36890,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -2699,7 +2699,7 @@
                 "open_issues": 99,
                 "owner": "infi-pc",
                 "repo": "locatorjs",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -2716,9 +2716,9 @@
                 "id": 383257021,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T18:32:20Z",
+                "last_commit": "2026-11-20T17:36:52Z",
                 "open_issues": 9,
-                "owner": "solidjs-community",
+                "owner": "solidjs",
                 "repo": "eslint-plugin-solid",
                 "stars": 269,
                 "topics": []
@@ -3026,7 +3026,7 @@
                 "open_issues": 2,
                 "owner": "solidjs",
                 "repo": "solid-start",
-                "stars": 5924,
+                "stars": 5925,
                 "topics": [
                   "file-system-routing",
                   "fine-grained-reactivity",
@@ -3117,7 +3117,7 @@
                 "open_issues": 181,
                 "owner": "BuilderIO",
                 "repo": "mitosis",
-                "stars": 14476,
+                "stars": 14478,
                 "topics": [
                   "angular",
                   "builder",
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:52:50.782Z",
+    "last_updated": "2026-11-21T13:16:41.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SolidJS, a brand new way(now 1.0) to build Javascript based interactive web applications. A very close looking cousin to React/JSX by syntax, and to Svelte by few important principles(compiler and fine-grained reactivity), it's a highly optimised way to deliver web applications with best-in-class performance. ",
