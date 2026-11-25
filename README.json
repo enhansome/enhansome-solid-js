@@ -17,11 +17,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T11:49:47Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-25T00:52:04Z",
+                "open_issues": 43,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36944,
+                "stars": 36962,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -47,11 +47,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T11:49:47Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-25T00:52:04Z",
+                "open_issues": 43,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36944,
+                "stars": 36962,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -81,7 +81,7 @@
                 "open_issues": 23,
                 "owner": "solidjs",
                 "repo": "solid-playground",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "compiler",
                   "repl",
@@ -115,7 +115,7 @@
                     "open_issues": 14,
                     "owner": "solidjs",
                     "repo": "solid-realworld",
-                    "stars": 235,
+                    "stars": 236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
@@ -136,7 +136,7 @@
                     "open_issues": 3,
                     "owner": "solidjs",
                     "repo": "solid-hackernews",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:12:10.187Z"
@@ -394,7 +394,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A tool to beautify your code screenshots. Built with SolidJS and Fastify.",
+                "description": "A tool to beautify your code screenshots. Built with SolidJS 2 and Fastify.",
                 "homepage": "https://codeimage.dev",
                 "id": 454158645,
                 "language": "TypeScript",
@@ -1260,11 +1260,11 @@
                     "id": 549650165,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T12:34:08Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-11-25T09:51:04Z",
+                    "open_issues": 43,
                     "owner": "inokawa",
                     "repo": "virtua",
-                    "stars": 3772,
+                    "stars": 3773,
                     "topics": [
                       "angular",
                       "datagrid",
@@ -1748,10 +1748,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-20T03:03:01Z",
-                "open_issues": 30,
+                "open_issues": 32,
                 "owner": "solidjs",
                 "repo": "solid-router",
-                "stars": 1327,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -1824,7 +1824,7 @@
                 "open_issues": 7,
                 "owner": "solidjs",
                 "repo": "solid-meta",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -1884,7 +1884,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-24T15:36:04Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "solidjs-community",
                 "repo": "solid-primitives",
                 "stars": 1578,
@@ -1944,8 +1944,8 @@
                 "id": 123197392,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T15:32:46Z",
-                "open_issues": 165,
+                "last_commit": "2026-11-24T15:41:53Z",
+                "open_issues": 169,
                 "owner": "effector",
                 "repo": "effector",
                 "stars": 4852,
@@ -2100,11 +2100,11 @@
                 "id": 130884470,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T11:49:47Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-25T00:52:04Z",
+                "open_issues": 43,
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 36944,
+                "stars": 36962,
                 "topics": [
                   "declarative",
                   "fine-grained",
@@ -2629,7 +2629,7 @@
                 "open_issues": 1,
                 "owner": "solidjs",
                 "repo": "solid-testing-library",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -2720,7 +2720,7 @@
                 "open_issues": 11,
                 "owner": "solidjs",
                 "repo": "eslint-plugin-solid",
-                "stars": 268,
+                "stars": 269,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -2792,7 +2792,7 @@
                 "open_issues": 23,
                 "owner": "solidjs",
                 "repo": "solid-refresh",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:12:10.187Z"
@@ -3113,11 +3113,11 @@
                 "id": 310456670,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T12:30:31Z",
-                "open_issues": 181,
+                "last_commit": "2026-11-25T15:13:22Z",
+                "open_issues": 182,
                 "owner": "BuilderIO",
                 "repo": "mitosis",
-                "stars": 14481,
+                "stars": 14483,
                 "topics": [
                   "angular",
                   "builder",
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:36:37.428Z",
+    "last_updated": "2026-11-25T15:21:09.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SolidJS, a brand new way(now 1.0) to build Javascript based interactive web applications. A very close looking cousin to React/JSX by syntax, and to Svelte by few important principles(compiler and fine-grained reactivity), it's a highly optimised way to deliver web applications with best-in-class performance. ",
@@ -3307,7 +3307,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T19:02:50Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "one-aalam",
       "repo": "awesome-solid-js",
       "stars": 1006,
